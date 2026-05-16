@@ -1,0 +1,775 @@
+track_id,title,artist_id,genre_id,release_date,is_algorithmic_recommendation
+942,Sunday Bloody Sunday,543,718,2021-04-22,True
+304,Last Nite,744,718,2023-06-02,False
+222,Breathe,924,527,2024-12-11,False
+553,Anthem for the Year 2000,577,718,2023-09-09,True
+425,Fix You,731,718,2023-11-04,False
+97,Mr Blue Sky,496,718,2024-12-08,True
+817,Bless the Broken Road,941,527,2023-09-17,True
+846,Life Is Good,223,433,2021-02-28,True
+743,I Want It That Way,244,128,2024-06-19,False
+617,Black Magic Woman,634,698,2022-06-17,True
+402,Careless Whisper,533,128,2021-01-07,False
+542,1-800-273-8255,898,433,2023-01-11,True
+521,Tighten Up,805,718,2024-09-30,True
+165,Duality,785,86,2023-01-15,False
+81,Smooth,459,718,2022-12-19,False
+253,Piece of My Heart,52,718,2021-09-11,True
+454,Stitches,833,128,2021-03-26,True
+160,I Will Always Love You,80,128,2021-04-28,True
+106,Blue Monday,514,718,2023-11-28,True
+852,The Next Episode,175,433,2024-06-15,True
+375,Seven Nation Army,745,718,2021-07-29,False
+584,Riders on the Storm,55,718,2022-02-25,True
+524,American Idiot,765,718,2021-10-12,False
+735,Are You Going with Me,316,201,2021-02-09,False
+740,Life in the Fast Lane,61,718,2023-03-20,False
+296,Stand by Your Man,956,527,2023-10-19,False
+848,Englishman in New York,547,718,2023-08-04,False
+371,I Got You,274,128,2022-07-21,True
+836,The Model,506,736,2023-03-22,True
+405,Rhinestone Cowboy,961,527,2021-05-18,False
+111,Umbrella,116,128,2021-08-14,True
+760,Any Way You Want It,462,718,2024-09-22,False
+30,Back in Black,416,718,2024-01-17,False
+773,Fat Lip,768,718,2024-09-09,False
+43,Invisible Touch,478,718,2024-08-31,True
+207,No Shoes No Shirt No Problems,918,527,2023-08-07,True
+603,Mrs Robinson,381,89,2024-09-17,True
+408,Haven't Met You Yet,320,201,2021-01-06,True
+120,Hungry Like the Wolf,521,128,2021-04-02,True
+233,Rio,521,128,2021-06-09,True
+897,Tenderly,291,201,2021-05-20,False
+727,There You'll Be,924,527,2022-05-29,False
+100,Aqualung,493,718,2023-10-21,False
+385,Lazaretto,746,718,2024-02-29,True
+264,My Girl,250,128,2023-05-12,True
+178,Killing in the Name,780,718,2021-08-02,False
+847,ABC,249,128,2023-12-28,True
+618,Something Just Like This,868,736,2022-06-03,True
+179,Waiting for Tonight,126,128,2021-01-19,False
+651,Are You Gonna Be My Girl,596,718,2022-02-14,False
+413,Therefore I Am,132,128,2022-04-28,False
+61,Girl You Know Its True,717,128,2022-02-05,True
+450,Stayin Alive,499,128,2024-03-31,True
+185,The Beautiful People,784,718,2024-01-15,True
+245,With or Without You,543,718,2023-10-13,False
+879,Gunpowder and Lead,934,527,2021-07-22,True
+710,Let It Happen,575,718,2024-03-25,True
+134,Rockstar,909,433,2023-09-16,True
+574,Blitzkrieg Bop,990,718,2023-08-05,True
+875,Guerrilla Radio,780,718,2022-12-07,False
+747,1-2-3,632,698,2022-10-04,False
+339,Dog Days Are Over,826,718,2021-06-13,False
+535,Before He Cheats,113,527,2023-01-27,True
+531,Spinning Around,571,128,2021-05-26,False
+720,Never Tear Us Apart,556,718,2021-08-28,False
+248,Gasolina,640,698,2021-07-13,True
+333,Paint It Black,19,718,2024-10-24,False
+161,Wild World,380,89,2022-04-16,True
+36,Scar,599,128,2024-08-04,True
+940,Bennie and the Jets,65,128,2023-04-02,True
+74,Suzanne,370,89,2024-09-03,False
+888,Abacab,478,718,2022-03-14,True
+3,In and Out of Love,854,736,2024-01-15,False
+778,Its a Mistake,565,718,2023-03-24,True
+328,Big Poppa,180,433,2022-05-20,False
+518,Fancy,584,128,2024-03-16,True
+282,Titanium,846,736,2024-07-07,True
+491,Light My Fire,55,718,2022-11-21,True
+452,It Must Have Been Love,670,128,2024-11-19,True
+530,Tous les Garcons et les Filles,697,89,2023-03-19,True
+393,Take Me to Church,827,128,2022-01-31,True
+537,Papa Was a Rolling Stone,250,128,2022-12-15,False
+826,Faith,533,128,2021-02-24,True
+434,Mr November,809,718,2024-03-19,True
+361,Midnight Train to Georgia,91,128,2024-01-15,True
+131,La Vie en Rose,686,89,2022-03-27,False
+360,Dont Turn Around,671,128,2023-04-06,True
+125,Enter Sandman,429,86,2023-01-15,False
+182,Psychosocial,785,86,2023-01-15,True
+953,Girlfriend,152,128,2023-10-14,False
+89,Blue Sky Mine,557,718,2021-04-15,True
+482,Dance to the Music,967,128,2022-11-28,True
+835,Thunder Road,30,718,2022-05-10,False
+954,Vibez,909,433,2021-11-29,True
+146,My Way,281,201,2021-10-03,True
+163,Mood Indigo,299,201,2024-01-20,False
+372,Bad and Boujee,901,433,2024-10-21,True
+554,Love Yourself,153,128,2021-07-24,False
+960,Lady Marmalade,93,128,2024-11-02,True
+164,Stay with Me,837,128,2023-07-26,True
+380,Love at First Sight,571,128,2022-12-07,False
+119,Lean On,865,736,2023-02-18,True
+157,Your Cheatin Heart,960,527,2022-04-18,False
+917,Wrecking Ball,141,128,2021-06-03,False
+1,Take the A Train,299,201,2023-08-29,False
+321,A Change Is Gonna Come,267,128,2021-02-19,True
+916,Crocodile Rock,65,128,2022-02-07,False
+608,Humble and Kind,923,527,2021-05-18,True
+71,Independence Day,926,527,2021-10-06,False
+465,Cruisin,263,128,2023-07-22,False
+971,Get Down on It,963,128,2023-07-07,True
+400,I Left My Heart in San Francisco,285,201,2022-09-07,True
+529,One Way Ticket,925,527,2021-05-12,True
+532,Chop Suey,779,86,2023-01-15,False
+661,Piano Man,66,128,2022-05-31,False
+187,Locomotive Breath,493,718,2023-11-18,True
+840,I Need to Know,650,698,2023-04-26,True
+989,I Will Always Love You,99,527,2022-12-19,True
+142,Tomorrow,577,718,2022-12-12,True
+819,Someday,744,718,2024-11-11,False
+742,By the Time I Get to Phoenix,961,527,2022-12-27,True
+469,Butter,664,128,2021-02-08,True
+153,Freak,577,718,2022-04-11,False
+829,My Love,34,718,2022-01-09,True
+921,Unforgettable,286,201,2024-12-30,False
+682,Happier Than Ever,132,128,2023-11-16,False
+341,Friday Im in Love,516,718,2021-03-11,False
+559,Chicken Fried,938,527,2023-01-15,True
+50,Tutti Frutti,276,718,2021-02-07,True
+932,One Step Closer,769,718,2023-05-26,True
+342,Gentleman,666,128,2021-04-15,True
+57,Drivers License,140,128,2024-09-24,True
+795,Wait and Bleed,785,86,2024-09-29,False
+658,Dont Let Me Down,868,736,2023-03-09,False
+623,Get Right,126,128,2023-06-20,True
+54,The House That Built Me,934,527,2022-03-03,True
+751,The Chain,58,718,2021-04-04,True
+637,Waka Waka,627,698,2023-12-13,True
+794,Dancing on My Own,678,128,2021-05-29,False
+828,White Rabbit,457,718,2021-05-05,True
+212,Radioactive,802,718,2022-03-31,True
+210,My My My,588,128,2021-01-19,False
+924,Run Up,865,736,2022-09-26,True
+438,Smells Like Teen Spirit,747,718,2024-03-15,True
+287,Truckin,456,718,2024-01-15,False
+639,D-I-V-O-R-C-E,956,527,2024-05-21,True
+754,Rockin in the Free World,373,89,2022-08-17,False
+2,Gangnam Style,666,128,2024-05-24,False
+994,Always Be My Baby,82,128,2021-11-22,False
+280,Hold My Hand,842,128,2024-10-10,False
+281,One O'Clock Jump,300,201,2022-02-06,True
+62,Lets Get It On,262,128,2021-12-21,True
+397,So What,301,201,2022-06-20,True
+458,Ko-Ko,304,201,2024-01-15,False
+798,Meditation from Thais,354,201,2023-02-06,True
+129,Barbie Girl,681,128,2024-07-13,True
+152,Sweet Child O Mine,426,718,2023-01-31,True
+788,Tchaikovsky Piano Concerto No 1,367,201,2022-05-12,False
+632,My Girl,263,128,2024-04-14,False
+497,Believe,323,128,2021-08-19,True
+922,Like a Rolling Stone,7,89,2023-09-08,True
+648,Last Train to Clarksville,406,128,2024-03-07,False
+319,To Where You Are,323,128,2023-05-11,False
+414,Its Gonna Be Me,245,128,2024-02-04,True
+726,Bring Me to Life,793,718,2022-07-28,True
+461,Everybody Loves Somebody,282,201,2021-06-19,False
+303,Sittin on the Dock of the Bay,268,128,2021-02-26,True
+660,After the Love Has Gone,962,128,2022-04-26,False
+600,Tearin Up My Heart,245,128,2022-06-05,False
+72,Blinding Lights,161,128,2023-03-30,True
+473,One Way or Another,983,718,2022-12-03,False
+614,No Scrubs,239,128,2023-09-17,False
+951,Granada,330,128,2023-09-01,False
+526,21 Guns,765,718,2022-04-10,True
+343,Ace of Spades,435,86,2022-05-21,True
+556,A Night in Tunisia,306,201,2023-05-05,False
+177,Im Your Man,370,89,2023-05-21,True
+90,Shout,968,128,2022-04-05,False
+678,Stepping Razor,604,859,2022-04-28,False
+987,Roundabout,476,718,2023-10-11,True
+40,Waterfalls,239,128,2022-10-06,True
+988,Offramp,316,201,2024-07-27,False
+289,Bad Guy,132,128,2024-06-02,True
+893,In the Sweet Embrace,317,201,2021-08-27,False
+750,Look What Youve Done,596,718,2022-09-12,True
+278,Chopin Ballade No 1,364,201,2021-01-15,False
+992,Fire and Rain,374,89,2024-08-29,True
+453,Good 4 U,140,128,2022-10-27,True
+172,Still Dre,175,433,2024-09-08,False
+302,No Role Modelz,897,433,2023-03-24,True
+948,This Love,804,128,2023-09-28,True
+715,Through the Fire,94,128,2023-03-13,True
+366,The Real Slim Shady,170,433,2024-10-11,True
+739,Easy,970,128,2022-01-28,True
+394,Bye Bye Bye,245,128,2021-07-21,False
+403,Good Hearted Woman,959,527,2023-10-18,False
+895,The Box,906,433,2024-11-23,False
+562,Shake It Off,114,128,2021-02-11,True
+149,My Heart Will Go On,84,128,2023-12-18,False
+590,Scary Monsters and Nice Sprites,847,736,2021-04-20,False
+509,For Your Love,409,718,2021-06-10,False
+725,Thunderstruck,416,718,2023-10-08,True
+907,Dust in the Wind,472,718,2023-08-05,False
+330,Ride,597,718,2021-04-11,True
+419,Jenny from the Block,126,128,2024-05-03,False
+189,Black Hole Sun,754,718,2023-02-04,False
+647,Tom Sawyer,475,718,2024-08-17,False
+697,Ride,801,718,2023-01-24,False
+464,Wide Open Spaces,948,527,2023-01-09,True
+440,The Look of Love,319,201,2021-05-28,True
+258,Wont Get Fooled Again,53,718,2023-08-20,True
+91,Dont Look Back in Anger,724,718,2021-03-21,True
+325,Born in the USA,30,718,2022-03-14,False
+668,99 Problems,166,433,2021-12-05,True
+656,You Really Got Me,408,718,2024-02-23,True
+733,This Ones for the Girls,926,527,2021-03-25,False
+663,Peggy Sue,279,718,2024-05-26,False
+305,Superstition,31,128,2024-06-10,False
+19,Thinkin Bout You,890,433,2022-05-15,True
+326,Waterloo,501,128,2022-08-11,True
+805,New Kid in Town,61,718,2021-08-14,False
+198,A Case of You,371,89,2023-02-11,True
+162,The Dead Heart,557,718,2021-05-07,True
+861,Lucille,916,527,2024-04-14,False
+246,Disturbia,116,128,2023-03-26,False
+914,The Only Exception,794,718,2024-12-08,False
+872,Purple Haze,49,718,2022-04-26,True
+275,Mi Gente,637,698,2022-04-16,True
+766,Hello,118,128,2021-01-11,True
+138,Stairway to Heaven,17,718,2023-05-21,True
+283,Never Too Much,972,128,2021-10-02,False
+675,Bohemian Rhapsody,13,718,2022-06-16,False
+915,Neither One of Us,91,128,2024-07-07,True
+911,Cant Fight This Feeling,470,718,2022-05-07,True
+202,Lose Yourself,170,433,2024-01-10,False
+961,Alors on Danse,683,128,2022-04-25,True
+546,Give Me Everything,661,698,2023-10-08,True
+702,She,687,89,2023-03-28,False
+769,I Feel the Earth Move,379,89,2021-01-02,True
+582,Boogie Wonderland,962,128,2024-12-17,True
+610,Nuthin but a G Thang,175,433,2024-02-17,False
+746,Love Interruption,746,718,2024-09-30,False
+255,The Koln Concert,314,201,2024-08-10,False
+308,Everyday People,967,128,2021-01-30,True
+626,Summertime,918,527,2024-03-02,False
+64,Say It,595,736,2022-10-21,False
+320,This Charming Man,995,718,2024-02-27,True
+718,Id Rather Go Blind,295,201,2021-01-10,True
+977,Need You Now,939,527,2022-02-25,True
+520,Rachmaninoff Piano Concerto No 2,364,201,2024-01-02,True
+686,Head Like a Hole,783,718,2022-03-16,False
+545,The Scientist,731,718,2022-03-30,False
+23,Crazy,954,527,2024-11-12,False
+539,Anaconda,130,433,2022-10-04,False
+701,Cosmic Love,826,718,2023-03-18,True
+963,Do You Really Want to Hurt Me,524,128,2023-03-18,True
+362,Believer,802,718,2024-04-22,True
+444,James,316,201,2024-08-20,False
+176,Hound Dog,5,718,2024-09-22,True
+936,Freedom 90,533,128,2023-04-04,False
+854,Epitaph,489,718,2023-10-27,True
+322,Proud Mary,76,128,2023-04-02,True
+857,Deja Vu,140,128,2023-10-19,False
+705,Fools Gold,999,718,2023-09-15,False
+490,Beautiful Life,671,128,2023-12-26,True
+443,Wish You Were Here,21,718,2021-11-01,False
+813,Bestie,909,433,2023-05-09,False
+334,Use Somebody,808,718,2021-01-04,False
+809,Turn Off the Lights,976,128,2024-06-03,True
+244,Luckenbach Texas,959,527,2023-06-10,False
+913,Livin la Vida Loca,628,698,2024-04-06,True
+955,The Candy Man,284,201,2023-11-13,True
+316,Love Will Tear Us Apart,515,718,2022-07-27,False
+844,Animals,855,736,2024-06-01,False
+937,Something,41,718,2022-08-28,True
+979,Lola,408,718,2023-04-13,True
+20,I Write Sins Not Tragedies,797,718,2021-01-01,False
+745,Overkill,565,718,2023-07-31,False
+997,Transmission,515,718,2023-11-15,False
+765,Lean On,859,736,2023-04-08,True
+763,CREAM,188,433,2024-03-28,True
+105,Savage,903,433,2023-09-22,False
+481,Yesterday,6,718,2022-02-10,True
+456,Cant Get Enough of Your Love,974,128,2023-10-30,True
+700,A Milli,199,433,2024-12-13,True
+240,Californication,760,718,2024-11-19,False
+606,Good Golly Miss Molly,276,718,2024-09-03,True
+645,Cantaloupe Island,310,201,2024-01-08,True
+634,Stay the Night,858,736,2023-06-09,False
+462,Thank U Next,134,128,2023-01-31,True
+586,Imagine,37,718,2024-06-21,True
+410,O Sole Mio,335,128,2022-07-11,True
+286,Im Coming Out,90,128,2023-01-09,False
+219,Rolling in the Deep,118,128,2022-09-24,True
+816,Heartbreak Hotel,5,718,2021-08-13,False
+290,Bridge over Troubled Water,381,89,2024-05-07,True
+571,Blame It on the Rain,717,128,2021-03-13,False
+167,Smooth,634,698,2021-01-25,False
+7,Go Your Own Way,58,718,2021-08-28,True
+39,Beds Are Burning,557,718,2023-10-27,True
+336,Adagio for Strings,851,736,2024-03-07,False
+234,Africa,473,718,2024-07-21,False
+775,If I Ruled the World,183,433,2021-11-25,False
+605,Telephone,119,128,2022-04-27,False
+115,Band on the Run,34,718,2022-11-19,True
+390,Dont Stop Believin,462,718,2024-12-27,False
+451,Tears of a Clown,263,128,2021-06-17,False
+999,Daddy Cool,505,128,2024-05-28,True
+192,Daydream Believer,406,128,2023-03-19,True
+946,Whats Going On,262,128,2022-05-18,False
+154,You Aint Woman Enough,953,527,2023-01-29,False
+26,Blue,925,527,2022-03-04,True
+423,Nessun Dorma,327,128,2024-03-12,False
+401,Conga,632,698,2022-12-29,True
+620,Get Up Stand Up,604,859,2024-09-13,True
+878,Hey,630,698,2023-06-29,False
+933,A Love Supreme,302,201,2023-01-21,False
+981,Sexual Healing,262,128,2023-01-06,False
+633,Shake It Out,826,718,2024-08-13,False
+69,She's Everything,921,527,2021-09-27,True
+939,The Trooper,432,86,2024-11-22,False
+589,The Way We Were,87,128,2024-06-10,True
+791,No Woman No Cry,603,859,2022-12-07,True
+249,Zombie,722,718,2024-05-07,True
+270,Phase Dance,316,201,2022-03-24,True
+476,I Wanna Be Adored,999,718,2024-01-18,False
+885,Rebellion Lies,817,718,2021-07-25,False
+223,Live and Let Die,34,718,2022-03-25,True
+664,Maneater,497,718,2022-10-13,True
+711,Painkiller,434,86,2024-04-12,False
+833,Witchy Woman,61,718,2022-01-10,False
+576,Jumpin at the Woodside,300,201,2023-12-25,True
+155,Cant Get You Out of My Head,571,128,2024-01-23,False
+506,Fist City,953,527,2022-08-10,True
+552,Closer,868,736,2023-11-21,False
+243,Bulls on Parade,780,718,2024-08-29,False
+501,We Are in Love,321,201,2024-03-15,True
+295,Beethoven Appassionata,364,201,2022-07-25,False
+797,Morning Has Broken,380,89,2024-02-12,True
+653,Crawling,769,718,2022-03-04,True
+993,End of the Road,236,128,2022-04-24,True
+1000,Notorious,521,128,2021-05-07,True
+31,25 or 6 to 4,460,718,2021-03-06,False
+516,Peace Train,380,89,2024-12-27,False
+95,Hips Dont Lie,627,698,2024-07-12,False
+684,Country Girl,935,527,2024-10-20,True
+728,Wichita Lineman,961,527,2022-10-02,True
+118,Poker Face,119,128,2022-02-23,False
+318,Lets Groove,962,128,2021-11-18,False
+297,Last Train Home,316,201,2024-09-27,False
+51,Its Tricky,192,433,2021-11-26,True
+369,Take It Easy,61,718,2023-08-16,False
+672,Decode,794,718,2022-04-24,False
+353,Skinny Love,822,89,2024-07-23,True
+324,Uptown Funk,160,128,2023-05-30,False
+681,Desperado,61,718,2022-06-18,True
+832,Lady,916,527,2021-08-22,True
+822,Say You Say Me,971,128,2024-11-08,True
+417,Tomorrow People,607,859,2023-01-15,False
+395,Believe,97,128,2022-10-21,True
+235,Suedehead,997,718,2023-09-03,True
+749,Senorita,831,128,2023-03-30,True
+802,Billie Jean,22,128,2023-09-09,False
+267,Thats Amore,282,201,2023-05-25,False
+144,Coal Miners Daughter,953,527,2022-08-30,True
+570,Iron Man,412,86,2023-05-10,False
+96,Heart Attack,146,128,2021-11-13,True
+534,It Dont Mean a Thing,299,201,2021-02-14,False
+67,Misery Business,794,718,2021-09-15,False
+510,Dance with My Father,972,128,2021-03-17,True
+52,Youth,588,128,2024-01-09,False
+226,Bloodbuzz Ohio,809,718,2022-05-27,False
+0,Whats Love Got to Do with It,76,128,2022-07-23,True
+86,A Broken Wing,926,527,2021-12-27,True
+436,Strange Fruit,290,201,2024-06-08,False
+851,La Donna E Mobile,335,128,2022-03-11,True
+98,Bright Eyes,387,89,2022-03-28,False
+34,HUMBLE,165,433,2021-10-24,True
+338,Numb,769,718,2022-04-09,True
+652,More Than a Feeling,471,718,2021-05-02,True
+823,My Immortal,793,718,2022-09-01,True
+168,All My Exs Live in Texas,107,527,2021-03-25,False
+147,How You Like That,665,128,2024-08-19,True
+65,Psycho Killer,985,718,2024-07-23,True
+268,Chattahoochee,927,527,2021-12-18,True
+455,Dont Dream Its Over,559,718,2022-07-09,False
+820,Hotline Bling,164,433,2023-04-21,False
+92,Say My Name,240,128,2023-06-11,True
+738,Sk8er Boi,152,128,2024-07-06,True
+588,Wrecking Ball,949,527,2022-04-16,False
+257,Fantasy,82,128,2023-04-15,True
+327,Family Affair,967,128,2022-02-11,False
+753,Hit the Road Jack,272,128,2021-03-19,False
+201,Personal Jesus,508,718,2023-12-14,False
+504,Jet,34,718,2021-09-07,True
+309,All That She Wants,671,128,2022-05-24,False
+368,Light It Up,865,736,2024-10-22,True
+412,Do I Wanna Know,737,718,2023-06-18,True
+208,On the Road Again,103,527,2023-05-27,True
+649,Song 2,727,718,2021-05-15,False
+752,Tennessee Whiskey,937,527,2023-03-04,False
+962,I Luh Ya Papi,126,128,2024-01-03,False
+337,Work Out,897,433,2021-02-06,True
+175,Cold Water,865,736,2021-12-23,False
+398,Tiny Dancer,65,128,2021-08-12,True
+699,Rude Boy,116,128,2022-04-29,False
+991,Layla,44,718,2023-09-06,False
+137,On the Floor,126,128,2023-12-08,False
+654,Photograph,43,718,2024-01-13,True
+449,Maybe Im Amazed,34,718,2024-01-07,False
+918,Saturday in the Park,460,718,2024-05-29,True
+183,Autobahn,506,736,2023-12-03,True
+976,Malamente,655,698,2022-11-25,False
+956,Sunday Candy,200,433,2023-07-21,False
+873,The Right Stuff,248,128,2023-01-22,False
+221,Ornithology,304,201,2024-03-13,False
+947,Hangover,666,128,2023-11-03,False
+252,Dont Bring Me Down,496,718,2024-09-28,False
+6,Space Oddity,9,718,2023-04-18,False
+566,Stressed Out,801,718,2023-04-26,True
+551,Man in the Box,758,718,2024-11-24,False
+384,Rock Me Amadeus,709,128,2022-01-08,False
+49,Sweet Dreams,536,128,2023-01-16,True
+931,Safaera,635,698,2021-05-12,True
+602,Check Yes or No,107,527,2023-11-13,False
+486,Fight the Power,189,433,2024-07-03,True
+619,Time to Say Goodbye,326,128,2022-03-28,True
+260,Cool for the Summer,146,128,2021-10-20,True
+288,Twist and Shout,968,128,2021-05-04,False
+758,Memories,846,736,2024-01-02,True
+103,The Sign,671,128,2022-11-10,False
+827,Valio la Pena,650,698,2022-05-17,True
+348,Father and Son,380,89,2022-01-18,True
+561,Without Me,830,128,2022-02-11,True
+755,Latch,875,736,2024-12-13,True
+132,Lollipop,199,433,2024-01-15,True
+522,Keep On Loving You,470,718,2021-12-30,True
+315,Greatest Love of All,80,128,2024-02-28,True
+564,Skyscraper,146,128,2022-05-08,True
+640,One,543,718,2023-08-25,False
+677,Hurt,783,718,2023-07-10,True
+845,Youve Got the Love,826,718,2024-10-04,False
+66,Schools Out,439,718,2024-11-04,False
+9,Heart of Gold,373,89,2024-03-02,False
+598,Summertime,288,201,2023-10-26,True
+774,Sweet Home Alabama,446,718,2024-01-12,False
+646,If I Ain't Got You,127,128,2024-11-05,False
+891,London Calling,993,718,2021-11-27,True
+470,At Last,295,201,2024-09-16,True
+830,Anarchy in the UK,992,718,2024-11-02,False
+841,Lost Ones,897,433,2022-05-25,False
+475,The Look,670,128,2021-11-20,True
+59,Long Tall Sally,276,718,2022-04-20,False
+340,Too Good at Goodbyes,837,128,2021-02-04,True
+215,Whiskey Lullaby,921,527,2021-08-13,False
+474,Sorry,153,128,2023-04-02,False
+195,My Adidas,192,433,2024-02-11,True
+301,Man I Feel Like a Woman,109,527,2022-08-30,False
+680,Breaking the Law,434,86,2022-02-04,True
+27,Stop In the Name of Love,256,128,2021-01-23,True
+214,Mask Off,223,433,2021-10-29,True
+99,Old Man,373,89,2021-09-18,True
+415,Don't Be So Hard on Yourself,842,128,2021-01-30,False
+104,Down Under,565,718,2023-08-31,False
+77,Yellow,731,718,2023-04-09,True
+180,Freak on a Leash,778,86,2022-09-22,True
+344,This Kiss,924,527,2022-09-17,True
+55,Hallelujah,370,89,2024-05-12,True
+525,I Feel for You,94,128,2024-01-28,False
+357,Rocket Man,65,128,2023-07-06,False
+265,Like a Prayer,24,128,2021-02-15,True
+930,No Problem,200,433,2023-11-22,False
+611,Le Temps de LAmour,697,89,2023-03-07,True
+205,Bop,909,433,2022-04-24,True
+801,LSD,894,433,2024-09-27,False
+889,Holdin On,595,736,2023-07-01,True
+32,Mr Tambourine Man,397,718,2022-11-26,False
+107,Aint It Fun,794,718,2022-10-05,False
+460,Rasputin,505,128,2024-03-06,False
+407,The Less I Know the Better,575,718,2023-09-24,False
+122,Spain,312,201,2023-07-28,True
+199,Last Resort,789,718,2023-08-11,False
+853,Lovesong,516,718,2023-06-07,True
+692,Gold Digger,167,433,2021-12-11,False
+143,Boulevard of Broken Dreams,765,718,2022-09-12,False
+44,Cry Me a River,154,128,2022-07-25,True
+468,Call Me,983,718,2023-10-29,False
+949,Forgot About Dre,175,433,2021-04-29,False
+577,Aint Nobody,94,128,2021-02-11,True
+806,Middle Child,897,433,2022-05-17,True
+925,A Wink and a Smile,321,201,2024-10-17,False
+170,Break Stuff,772,86,2022-04-19,False
+499,When Love Takes Over,846,736,2022-11-13,False
+494,Rock You Like a Hurricane,704,86,2021-10-25,True
+957,Maria Maria,634,698,2024-12-29,True
+381,Begin the Beguine,630,698,2022-08-25,False
+585,Power and the Passion,557,718,2022-09-04,False
+128,Chandelier,581,128,2024-08-28,False
+655,Bach Cello Suite No 1,342,201,2023-11-07,True
+217,Live Forever,724,718,2024-11-23,False
+193,Welcome to the Jungle,426,718,2021-02-27,True
+982,Roll Over Beethoven,277,718,2024-12-11,True
+799,Liszt Liebestraum,358,201,2024-09-18,False
+867,Fancy,108,527,2022-01-07,False
+359,All Night Long,971,128,2023-02-03,True
+667,Happy,887,128,2024-09-11,False
+409,Comfortably Numb,21,718,2023-06-25,False
+431,Everlong,764,718,2022-08-08,True
+379,In the Court of the Crimson King,489,718,2021-07-29,True
+927,Life Is a Highway,941,527,2024-03-29,False
+731,Wake Up,817,718,2022-07-01,True
+391,Ne Me Quitte Pas,690,89,2023-09-04,False
+329,Hello,971,128,2024-07-10,True
+271,You Can Call Me Al,385,89,2023-03-10,False
+970,Aint Your Mama,126,128,2023-01-17,False
+568,Supersonic,724,718,2022-11-24,False
+291,Hey Jude,6,718,2022-08-02,True
+659,Just My Imagination,250,128,2022-03-22,True
+350,Amigos Para Siempre,331,128,2023-01-28,True
+370,It Had to Be You,321,201,2023-08-23,False
+346,Non Je Ne Regrette Rien,686,89,2024-06-19,True
+70,21st Century Schizoid Man,489,718,2022-05-21,True
+378,Reelin in the Years,498,718,2024-09-09,False
+94,Still Into You,794,718,2023-03-29,True
+166,In the End,769,718,2024-04-24,False
+723,Down with the Sickness,787,86,2024-08-21,True
+969,The Harder They Come,606,859,2023-02-15,False
+389,Ball If I Want To,909,433,2023-05-06,False
+864,Good as Hell,227,128,2023-01-15,False
+781,Yo Perreo Sola,635,698,2022-12-27,False
+563,Chaconne,354,201,2022-01-20,True
+756,In My Daughter's Eyes,926,527,2023-08-06,False
+928,In Your Eyes,487,718,2023-06-08,True
+181,Ddu Du Ddu Du,665,128,2021-09-17,True
+597,Graceland,385,89,2024-07-11,False
+669,Your Song,65,128,2021-05-14,False
+657,Born to Run,30,718,2022-09-14,False
+392,Jolene,99,527,2023-11-10,True
+579,Roxanne,545,718,2024-10-14,True
+4,Nessun Dorma,330,128,2022-08-02,True
+38,Highway to Hell,416,718,2021-07-09,False
+83,Land of Confusion,478,718,2022-12-29,True
+335,Bizarre Love Triangle,514,718,2022-09-23,True
+744,DNA,664,128,2021-07-29,True
+151,Baba ORiley,53,718,2024-10-24,True
+239,All Out of Love,567,128,2023-02-01,True
+496,Online,921,527,2021-10-15,True
+203,Physical,569,128,2021-04-22,True
+466,Without Me,170,433,2021-10-23,True
+5,Rollin,772,86,2021-07-23,True
+787,Walk On By,319,201,2023-08-10,False
+331,Happier,857,736,2022-10-06,False
+881,Bolero,339,201,2023-04-29,False
+373,Clarity,858,736,2021-04-15,True
+565,Wake Me Up When September Ends,765,718,2022-11-13,True
+58,Dream On,417,718,2024-12-17,True
+435,Run to the Hills,432,86,2021-04-28,False
+966,In the Name of Love,855,736,2021-09-21,True
+76,Strobe,850,736,2023-11-12,False
+964,Here and Now,972,128,2022-06-06,False
+792,Casey Jones,456,718,2024-05-28,True
+856,Detroit Rock City,418,718,2021-12-18,True
+594,Being with You,263,128,2021-08-11,True
+580,Red Right Hand,591,718,2022-01-21,False
+374,So What,151,128,2021-09-09,True
+117,Baby One More Time,122,128,2024-09-19,False
+101,Georgia on My Mind,272,128,2021-03-04,True
+811,Its Like That,192,433,2023-03-12,False
+505,Live Like You Were Dying,923,527,2022-01-01,False
+638,Do It Again,498,718,2021-11-20,True
+983,Supermassive Black Hole,736,718,2021-10-10,False
+730,Nights in White Satin,494,718,2022-04-05,True
+607,Lets Stay Together,266,128,2024-08-10,False
+910,My Song,314,201,2024-03-08,True
+935,Party in the USA,141,128,2023-08-10,False
+127,Temperature,615,859,2022-12-02,False
+418,Rather Be,842,128,2024-08-14,False
+882,Night Fever,499,128,2023-07-24,True
+838,A-Tisket A-Tasket,288,201,2022-07-28,True
+68,Mamma Mia,501,128,2022-04-03,False
+284,Born This Way,119,128,2024-05-21,True
+706,Walking on Broken Glass,537,128,2022-07-08,False
+690,Tired of Being Alone,266,128,2023-11-14,False
+627,If I Could Turn Back Time,97,128,2023-03-10,True
+113,Step by Step,248,128,2024-04-24,True
+377,Daddy,666,128,2024-05-25,False
+136,April in Paris,300,201,2022-07-31,True
+581,Brick House,970,128,2024-11-12,True
+447,Dynamite,664,128,2022-02-15,False
+139,Come Sail Away,467,718,2023-10-13,False
+188,To All the Girls Ive Loved,630,698,2021-09-22,True
+492,Oye Como Va,634,698,2022-07-28,True
+512,Hangin Tough,248,128,2021-02-12,False
+224,Casta Diva,334,128,2021-08-17,True
+975,Dreams,722,718,2022-02-05,False
+80,Truly Madly Deeply,579,128,2022-03-29,True
+583,Milord,686,89,2023-02-28,False
+429,Praise the Lord,894,433,2024-01-22,False
+133,My Prerogative,234,128,2024-05-05,True
+364,Cant Feel My Face,161,128,2021-11-17,False
+35,Get Free,597,718,2022-04-17,True
+204,Gods Plan,164,433,2023-05-13,False
+479,Fields of Gold,547,718,2022-03-07,True
+959,Every Little Thing She Does Is Magic,545,718,2023-08-20,False
+903,Rock n Roll Star,724,718,2023-01-28,True
+45,Never Be Like You,595,736,2024-04-23,False
+311,Sledgehammer,487,718,2024-01-31,False
+762,Blank Space,114,128,2024-01-27,True
+912,Howlin for You,805,718,2023-05-11,False
+722,Rosanna,473,718,2024-12-25,True
+708,Chopin Nocturne,364,201,2023-12-04,False
+793,Thriller,22,128,2022-09-17,True
+445,Havana,831,128,2023-01-16,False
+990,Creep,239,128,2023-01-14,True
+63,Sabotage,194,433,2021-01-30,True
+310,Spoonman,754,718,2024-03-07,True
+514,Heroes,9,718,2021-02-18,True
+965,Joyride,670,128,2022-01-08,True
+200,Cant Fight the Moonlight,925,527,2021-02-15,False
+674,50 Ways to Leave Your Lover,385,89,2022-09-28,True
+868,I'm Every Woman,94,128,2022-08-30,True
+541,The Special Two,599,128,2022-10-02,False
+842,Gimme Shelter,19,718,2021-04-14,True
+944,Here Comes the Sun,41,718,2021-10-30,True
+923,Respect,79,128,2024-06-09,True
+796,Stronger,167,433,2022-08-02,False
+300,Ticks,921,527,2023-07-22,False
+388,La Incondicional,643,698,2021-01-29,True
+544,My Sweet Lord,41,718,2022-08-14,False
+899,Skyfall,118,128,2022-11-02,True
+972,Message in a Bottle,545,718,2023-10-29,True
+764,Amanda,959,527,2024-02-27,False
+483,Boy with Luv,664,128,2023-03-23,False
+457,Wind of Change,704,86,2023-06-13,False
+863,Reptilia,744,718,2023-08-13,False
+386,Carry On Wayward Son,472,718,2024-08-05,True
+114,Amarillo by Morning,107,527,2024-09-03,True
+724,Lucky Man,491,718,2021-06-02,False
+780,Mic Drop,664,128,2022-12-22,False
+446,Here Comes the Rain Again,536,128,2023-11-23,False
+612,7 Rings,134,128,2023-01-28,True
+206,Giant Steps,302,201,2024-03-23,True
+218,Celebration,963,128,2024-01-02,True
+383,Private Eyes,497,718,2021-10-05,False
+871,Instant Karma,37,718,2023-10-18,True
+978,Church of the Poison Mind,524,128,2022-06-05,False
+236,La Fiesta,312,201,2021-06-15,False
+355,Fake Empire,809,718,2023-09-19,False
+148,Suge,909,433,2021-09-23,True
+569,La Camisa Negra,652,698,2021-08-12,False
+261,Ghosts n Stuff,850,736,2023-05-31,True
+507,Linger,722,718,2023-12-06,False
+865,Royals,829,128,2024-06-21,True
+625,Fake Love,664,128,2023-02-24,True
+112,Lonely Boy,805,718,2022-11-27,False
+472,Goldberg Variations,366,201,2023-11-15,False
+621,Closer,783,718,2021-10-13,True
+850,Sugar,804,128,2022-05-12,False
+771,NY State of Mind,183,433,2023-02-14,True
+123,Champagne Supernova,724,718,2024-05-20,False
+174,Boulder to Birmingham,949,527,2022-02-18,False
+673,Owner of a Lonely Heart,476,718,2024-04-07,True
+808,Misty,291,201,2022-09-10,False
+228,Karma Chameleon,524,128,2024-04-05,True
+768,Never Be the Same,831,128,2024-03-03,True
+169,One More Time,684,736,2022-11-30,True
+498,Dakiti,635,698,2023-10-20,True
+508,Sweet Dreams,784,718,2021-07-09,True
+437,All the Small Things,766,718,2021-08-17,True
+277,Alive,749,718,2024-08-21,True
+995,High Fashion,906,433,2021-11-12,True
+513,In Too Deep,768,718,2021-05-04,True
+478,Oops I Did It Again,122,128,2021-04-06,True
+422,The Logical Song,495,718,2023-05-12,False
+974,Shes Lost Control,515,718,2024-03-27,True
+734,Crushcrushcrush,794,718,2022-10-12,True
+593,Who Can It Be Now,565,718,2023-05-11,True
+17,Walk This Way,192,433,2023-03-20,True
+717,Are You Sure Hank Done It,959,527,2022-01-13,True
+60,Dancing Queen,501,128,2024-04-11,True
+748,Parklife,727,718,2024-05-31,False
+782,Every Day Is Like Sunday,997,718,2022-08-03,True
+904,Work It,196,433,2024-04-18,False
+428,I Knew I Loved You,579,128,2023-03-16,True
+631,Vesti La Giubba,335,128,2023-12-19,True
+599,Baby Dont Forget My Number,717,128,2023-01-17,True
+629,A-Punk,814,718,2021-07-06,True
+812,It Wasn't Me,616,859,2021-07-01,False
+737,Pyramids,890,433,2024-10-18,False
+387,Bidi Bidi Bom Bom,660,698,2024-07-27,True
+272,I Only Have Eyes for You,387,89,2024-11-30,True
+110,How Do I Live,925,527,2021-06-22,True
+803,I Want to Know What Love Is,463,718,2021-08-03,True
+197,Halo,115,128,2021-06-23,True
+883,Outtathaway,597,718,2021-10-13,False
+761,Limelight,475,718,2021-02-08,False
+837,Shape of My Heart,547,718,2021-11-25,False
+358,Close the Door,976,128,2024-08-29,False
+273,Wannabe,241,128,2024-01-16,False
+382,Endless Love,971,128,2023-01-15,True
+707,Dont Know Why,318,201,2021-09-21,False
+550,Give a Little Bit,495,718,2024-01-10,False
+109,Super Bass,130,433,2024-07-01,False
+815,Welcome to the Black Parade,795,718,2021-08-27,True
+448,The Hills,161,128,2021-03-18,False
+439,Money for Nothing,554,718,2023-12-21,False
+821,Remember When It Rained,323,128,2021-08-08,True
+231,Sophisticated Lady,299,201,2022-03-22,False
+467,Complicated,152,128,2021-09-21,False
+719,The Best,76,128,2023-05-15,True
+241,I Wanna Dance with Somebody,80,128,2022-07-08,False
+314,Johnny B Goode,277,718,2021-02-13,True
+365,I Cant Dance,478,718,2024-04-28,False
+14,Get Lucky,684,736,2023-04-21,True
+901,Everybody Wants to Rule the World,540,128,2021-03-01,True
+643,Mo Money Mo Problems,180,433,2021-01-30,True
+624,This Is America,891,433,2023-08-12,True
+471,Try a Little Tenderness,268,128,2023-02-10,False
+441,Satisfaction,19,718,2021-08-06,False
+890,To the Moon and Back,579,128,2023-05-03,True
+909,Peace of Mind,471,718,2024-04-18,False
+15,Wonderwall,724,718,2023-08-20,False
+477,You Send Me,267,128,2021-12-10,True
+108,Im a Believer,406,128,2023-07-18,True
+713,Orinoco Flow,720,128,2024-02-29,False
+225,Hotel California,61,718,2021-12-19,True
+196,September,962,128,2024-06-16,False
+432,Heart of Glass,983,718,2021-07-10,True
+557,Fallin,127,128,2021-10-02,False
+615,The Gambler,916,527,2024-01-10,True
+630,From Eden,827,128,2022-09-22,False
+950,How Will I Know,80,128,2022-03-12,False
+834,Genie in a Bottle,123,128,2022-08-28,True
+671,Johnny B Goode,604,859,2023-12-07,False
+980,Im with You,152,128,2024-01-31,False
+770,Girls and Boys,727,718,2023-01-05,True
+140,Little Lion Man,825,89,2021-05-12,False
+299,Ocean Eyes,132,128,2023-08-31,False
+420,Let It Be,6,718,2021-03-13,False
+276,Mama's Broken Heart,934,527,2022-12-22,False
+430,Legalize It,604,859,2022-02-19,True
+986,Tusa,663,698,2021-04-13,True
+776,9 to 5,99,527,2022-01-01,True
+772,Hero,82,128,2023-11-24,True
+213,Gin and Juice,174,433,2024-04-02,False
+572,Respect,268,128,2024-01-08,True
+363,Thats the Way Love Is,968,128,2023-03-20,True
+209,Rock and Roll All Nite,418,718,2021-08-26,False
+898,California Love,179,433,2024-05-24,True
+519,Someone Like You,118,128,2021-10-06,False
+729,Firework,121,128,2024-04-14,False
+810,Livin Thing,496,718,2021-04-26,True
+156,Bad Romance,119,128,2023-09-09,True
+741,Listen to Your Heart,670,128,2021-11-05,False
+862,American Kids,918,527,2024-11-28,False
+642,Kill This Love,665,128,2021-09-23,False
+691,Rhythm Is Gonna Get You,632,698,2022-08-04,True
+87,Sorry Not Sorry,146,128,2023-09-13,True
+173,Empire State of Mind,166,433,2021-11-11,True
+238,You Raise Me Up,323,128,2021-06-09,True
+211,Every Breath You Take,545,718,2021-10-12,True
+908,These Days,842,128,2022-01-22,False
+266,Juicy,180,433,2022-02-01,False
+601,This Is What It Feels Like,854,736,2024-01-15,True
+274,Last Christmas,531,128,2021-03-19,True
+254,Like a Virgin,24,128,2023-10-05,True
+135,California Dreamin,394,128,2021-11-19,True
+399,Beethoven Symphony No 9,339,201,2022-11-09,True
+256,Wake Me Up,672,736,2024-05-17,False
+85,Como La Flor,660,698,2021-07-04,False
+433,Walkin After Midnight,954,527,2024-07-11,False
+783,Vivir Mi Vida,650,698,2021-06-06,True
+849,When the Sun Goes Down,918,527,2022-08-20,True
+227,Bright Size Life,316,201,2022-05-12,False

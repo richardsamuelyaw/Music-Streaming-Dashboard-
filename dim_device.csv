@@ -1,0 +1,367 @@
+device_id,device_type,os_name
+504,Desktop,Tizen
+350,Smart Speaker,Windows
+17,Desktop,iOS
+90,Smart Speaker,Tizen
+189,Smart TV,macOS
+6,Desktop,macOS
+437,Desktop,Tizen
+51,Tablet,Android
+825,Desktop,Tizen
+592,Desktop,Android
+963,Mobile,Android
+84,Car,iOS
+80,Car,Android
+869,Tablet,Android
+392,Car,Android
+760,Tablet,Windows
+190,Desktop,Windows
+8,Mobile,Windows
+498,Smart Speaker,iOS
+573,Desktop,Tizen
+111,Tablet,iOS
+10,Tablet,Windows
+212,Car,Android
+109,Smart TV,iOS
+997,Mobile,iOS
+989,Mobile,Tizen
+15,Mobile,iOS
+457,Tablet,Linux
+384,Smart TV,Linux
+27,Mobile,Android
+667,Tablet,Windows
+851,Mobile,Android
+611,Smart Speaker,iOS
+918,Smart TV,macOS
+638,Smart Speaker,Linux
+548,Car,Windows
+948,Smart TV,iOS
+706,Smart TV,Linux
+765,Tablet,Tizen
+780,Car,Tizen
+31,Smart Speaker,iOS
+735,Mobile,macOS
+749,Mobile,iOS
+495,Car,Tizen
+564,Tablet,Windows
+833,Desktop,macOS
+142,Smart TV,Linux
+527,Smart TV,macOS
+771,Mobile,Tizen
+259,Smart Speaker,Android
+264,Car,Tizen
+4,Desktop,Windows
+312,Smart Speaker,Android
+358,Tablet,Windows
+953,Smart TV,Android
+82,Mobile,Linux
+646,Smart Speaker,Windows
+63,Desktop,Windows
+800,Smart Speaker,Windows
+469,Desktop,Linux
+426,Car,macOS
+944,Car,Windows
+105,Mobile,Linux
+266,Desktop,Tizen
+274,Smart Speaker,Windows
+610,Smart TV,Android
+830,Smart Speaker,Tizen
+402,Mobile,Windows
+747,Smart TV,iOS
+759,Tablet,macOS
+542,Desktop,Linux
+711,Mobile,Windows
+604,Desktop,Windows
+245,Desktop,iOS
+161,Tablet,macOS
+291,Tablet,Windows
+352,Mobile,Tizen
+922,Car,macOS
+622,Tablet,macOS
+836,Car,Windows
+26,Car,Tizen
+784,Desktop,Linux
+188,Smart TV,Windows
+566,Tablet,Windows
+386,Tablet,Tizen
+864,Car,iOS
+675,Smart Speaker,Tizen
+460,Smart TV,iOS
+510,Car,macOS
+707,Mobile,iOS
+719,Tablet,Tizen
+727,Mobile,macOS
+789,Desktop,Tizen
+367,Tablet,Tizen
+902,Tablet,Linux
+321,Tablet,Android
+549,Tablet,Android
+271,Smart TV,Linux
+485,Smart Speaker,iOS
+124,Smart Speaker,Tizen
+308,Desktop,macOS
+681,Smart TV,Windows
+907,Smart TV,Linux
+951,Car,Linux
+383,Tablet,Windows
+794,Smart TV,macOS
+396,Mobile,Android
+807,Desktop,Windows
+912,Mobile,iOS
+446,Smart Speaker,macOS
+601,Car,Linux
+867,Smart TV,macOS
+138,Smart TV,Windows
+247,Smart Speaker,iOS
+626,Smart Speaker,Android
+179,Mobile,Tizen
+795,Smart TV,iOS
+338,Mobile,Windows
+811,Smart Speaker,iOS
+791,Smart Speaker,macOS
+627,Smart TV,iOS
+514,Tablet,iOS
+803,Desktop,Linux
+1000,Smart Speaker,macOS
+24,Mobile,Android
+507,Mobile,Tizen
+644,Car,Android
+484,Tablet,Android
+468,Car,Windows
+136,Tablet,Android
+272,Smart TV,Linux
+43,Mobile,Linux
+702,Mobile,macOS
+973,Mobile,Android
+379,Mobile,Android
+732,Smart Speaker,iOS
+983,Mobile,Windows
+393,Smart Speaker,Linux
+883,Smart Speaker,iOS
+678,Mobile,Linux
+166,Mobile,Linux
+782,Mobile,Linux
+9,Smart Speaker,Linux
+237,Smart Speaker,Tizen
+555,Tablet,Windows
+990,Mobile,iOS
+160,Tablet,iOS
+310,Desktop,Windows
+640,Car,Linux
+93,Tablet,Linux
+955,Car,Android
+524,Smart Speaker,Tizen
+991,Desktop,Android
+415,Smart Speaker,Windows
+331,Smart TV,Windows
+444,Car,iOS
+347,Smart Speaker,Linux
+547,Mobile,Android
+223,Desktop,macOS
+503,Car,macOS
+840,Tablet,macOS
+155,Desktop,macOS
+793,Smart Speaker,Tizen
+855,Smart Speaker,Android
+34,Car,Tizen
+676,Smart Speaker,Linux
+294,Smart Speaker,macOS
+220,Smart TV,iOS
+287,Smart Speaker,Tizen
+153,Smart TV,macOS
+405,Tablet,Windows
+873,Mobile,Android
+779,Car,macOS
+558,Smart TV,iOS
+73,Car,Android
+59,Tablet,iOS
+302,Desktop,Windows
+705,Smart Speaker,Tizen
+156,Desktop,Tizen
+119,Tablet,macOS
+715,Car,iOS
+207,Desktop,iOS
+58,Mobile,Android
+930,Smart TV,Tizen
+599,Smart Speaker,Linux
+476,Smart TV,Windows
+671,Smart Speaker,Tizen
+792,Car,Android
+629,Mobile,Windows
+319,Mobile,iOS
+890,Smart TV,iOS
+703,Car,Tizen
+878,Smart Speaker,Linux
+557,Car,Android
+450,Desktop,Android
+844,Smart TV,iOS
+612,Smart Speaker,Tizen
+776,Car,Android
+284,Desktop,Android
+193,Tablet,Windows
+149,Tablet,Linux
+600,Mobile,Android
+808,Mobile,Windows
+977,Smart Speaker,iOS
+32,Mobile,Android
+1,Desktop,Android
+679,Mobile,Android
+269,Mobile,macOS
+78,Mobile,Linux
+75,Desktop,Android
+528,Tablet,iOS
+689,Mobile,iOS
+887,Tablet,Windows
+483,Mobile,macOS
+860,Smart Speaker,Android
+432,Mobile,Android
+208,Car,iOS
+826,Desktop,iOS
+2,Desktop,Linux
+276,Car,Windows
+130,Smart TV,macOS
+344,Smart Speaker,Android
+652,Smart TV,Tizen
+296,Car,Tizen
+363,Smart TV,iOS
+499,Smart Speaker,iOS
+118,Smart Speaker,Android
+936,Smart Speaker,Tizen
+982,Car,Android
+713,Smart TV,Android
+108,Tablet,Android
+472,Mobile,iOS
+355,Smart TV,Tizen
+877,Desktop,Linux
+653,Mobile,macOS
+691,Mobile,macOS
+320,Smart TV,Tizen
+348,Car,Linux
+971,Smart TV,Tizen
+501,Car,Windows
+534,Smart TV,macOS
+204,Desktop,Android
+806,Mobile,macOS
+941,Smart Speaker,Android
+162,Tablet,Windows
+281,Car,Linux
+812,Tablet,Tizen
+407,Smart Speaker,Windows
+586,Mobile,Windows
+147,Desktop,Windows
+645,Smart Speaker,Tizen
+857,Smart Speaker,Tizen
+67,Mobile,Linux
+995,Smart TV,Windows
+663,Mobile,macOS
+167,Mobile,iOS
+884,Smart Speaker,Android
+723,Smart TV,iOS
+373,Smart TV,Linux
+530,Smart Speaker,iOS
+406,Car,Tizen
+194,Desktop,Tizen
+946,Smart Speaker,iOS
+975,Smart TV,iOS
+172,Smart TV,Android
+412,Car,Windows
+265,Smart Speaker,Android
+635,Smart TV,Android
+324,Mobile,macOS
+395,Tablet,Windows
+560,Tablet,iOS
+536,Mobile,Linux
+552,Smart TV,Windows
+341,Desktop,Android
+756,Desktop,Linux
+608,Smart Speaker,Android
+176,Desktop,macOS
+368,Smart Speaker,Tizen
+661,Mobile,macOS
+116,Smart TV,Linux
+442,Mobile,macOS
+682,Smart Speaker,Android
+322,Smart TV,iOS
+827,Smart TV,Linux
+16,Smart TV,Android
+473,Smart Speaker,iOS
+598,Smart TV,Android
+239,Tablet,iOS
+783,Smart TV,macOS
+79,Tablet,Android
+650,Car,iOS
+634,Mobile,Android
+788,Car,Windows
+581,Mobile,iOS
+972,Tablet,iOS
+785,Car,macOS
+211,Mobile,Windows
+408,Tablet,Windows
+267,Smart Speaker,Tizen
+512,Desktop,iOS
+5,Mobile,macOS
+39,Smart Speaker,macOS
+195,Car,iOS
+494,Smart TV,Linux
+758,Smart TV,macOS
+739,Smart Speaker,Windows
+616,Car,Windows
+422,Smart TV,macOS
+817,Desktop,Tizen
+660,Smart TV,iOS
+828,Car,Linux
+533,Smart TV,Windows
+187,Smart TV,Android
+496,Tablet,iOS
+41,Mobile,Tizen
+113,Smart Speaker,Linux
+218,Mobile,Android
+360,Smart TV,Windows
+699,Car,Linux
+846,Smart Speaker,macOS
+482,Mobile,iOS
+993,Car,macOS
+427,Desktop,Android
+766,Smart Speaker,Linux
+453,Car,Android
+876,Smart TV,macOS
+881,Smart TV,Windows
+541,Car,iOS
+695,Smart Speaker,iOS
+677,Car,Windows
+236,Desktop,Windows
+901,Tablet,Android
+279,Smart TV,Linux
+356,Tablet,Android
+847,Car,Windows
+578,Mobile,iOS
+99,Smart TV,Tizen
+270,Tablet,iOS
+227,Tablet,Tizen
+810,Mobile,iOS
+937,Desktop,iOS
+886,Car,Android
+905,Desktop,Tizen
+568,Smart TV,Windows
+822,Smart TV,Windows
+137,Tablet,iOS
+97,Mobile,macOS
+346,Smart Speaker,Linux
+639,Smart Speaker,iOS
+521,Desktop,Tizen
+366,Desktop,macOS
+733,Desktop,Tizen
+862,Smart TV,macOS
+261,Smart TV,Android
+931,Tablet,Android
+509,Car,Linux
+865,Mobile,Linux
+523,Smart TV,Tizen
+216,Smart TV,Linux
+754,Desktop,Android
+597,Desktop,macOS
+906,Car,Android
+790,Desktop,Linux
+854,Smart TV,Windows
+336,Desktop,Windows
+804,Smart TV,Windows

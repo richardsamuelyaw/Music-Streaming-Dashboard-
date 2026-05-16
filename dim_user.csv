@@ -1,0 +1,962 @@
+user_id,account_created,age,gender,country_code,subscription_tier,plan_id,family_account_id,device_os,is_fraud_cluster
+456,2022-02-14,43,Non-binary,ZA,Premium,2,873.0,Windows,False
+147,2023-05-19,22,Prefer not to say,GB,Premium,2,153.0,Android,True
+44,2024-01-02,81,Female,FR,Premium,2,158.0,Linux,False
+353,2024-02-29,90,Prefer not to say,JP,Free,1,899.0,Windows,True
+983,2022-09-06,55,Prefer not to say,SE,Free,1,321.0,Android,True
+385,2023-01-13,30,Non-binary,FR,Family,3,1.0,Windows,False
+1000,2022-05-03,68,Prefer not to say,CA,Family,3,433.0,iOS,False
+489,2021-09-04,59,Male,SE,Premium,2,741.0,Linux,True
+764,2022-01-16,60,Other,FR,Family,3,757.0,macOS,True
+786,2024-08-24,64,Non-binary,CA,Premium,2,87.0,iOS,False
+28,2022-03-28,75,Prefer not to say,CA,Free,1,281.0,Linux,False
+6,2024-11-24,16,Male,GB,Family,3,618.0,Android,True
+923,2021-12-19,21,Prefer not to say,BR,Family,3,660.0,Windows,False
+933,2023-11-22,21,Male,SE,Free,1,621.0,macOS,True
+132,2023-04-18,26,Female,DE,Family,3,338.0,Android,True
+646,2023-10-15,97,Non-binary,US,Premium,2,863.0,macOS,True
+924,2023-07-30,76,Female,ZA,Family,3,78.0,Android,False
+951,2023-10-29,70,Prefer not to say,JP,Free,1,823.0,Windows,False
+296,2024-08-15,73,Prefer not to say,FR,Premium,2,940.0,Android,True
+818,2023-04-03,15,Male,US,Free,1,685.0,Android,False
+928,2022-01-31,82,Male,US,Premium,2,380.0,Windows,False
+146,2023-10-31,53,Non-binary,JP,Free,1,436.0,Linux,True
+601,2022-12-23,57,Prefer not to say,FR,Family,3,166.0,iOS,True
+24,2023-03-12,78,Non-binary,FR,Family,3,222.0,Windows,True
+357,2023-05-22,19,Male,FR,Premium,2,636.0,Android,False
+11,2022-07-13,82,Male,AU,Family,3,550.0,Linux,True
+443,2024-02-04,72,Male,FR,Family,3,,Android,False
+811,2023-11-23,48,Other,AU,Premium,2,475.0,macOS,True
+658,2023-11-09,56,Non-binary,DE,Family,3,78.0,Android,False
+317,2023-11-11,19,Male,JP,Free,1,868.0,Linux,False
+427,2024-07-23,30,Prefer not to say,BR,Family,3,,iOS,False
+367,2023-05-20,34,Female,CA,Premium,2,245.0,macOS,True
+732,2024-11-12,89,Other,SE,Free,1,314.0,iOS,False
+266,2021-06-24,22,Non-binary,US,Family,3,631.0,macOS,True
+91,2023-07-12,38,Other,GB,Family,3,2.0,macOS,False
+507,2023-11-13,24,Other,AU,Family,3,102.0,Windows,False
+830,2022-11-28,37,Female,AU,Free,1,902.0,Windows,True
+477,2022-02-25,13,Other,AU,Family,3,172.0,iOS,True
+204,2023-03-15,36,Female,AU,Family,3,577.0,Windows,False
+46,2022-06-17,75,Female,DE,Family,3,883.0,Windows,True
+944,2024-08-20,79,Non-binary,BR,Premium,2,733.0,Android,True
+761,2022-06-05,46,Prefer not to say,ZA,Family,3,272.0,iOS,False
+155,2021-09-14,74,Prefer not to say,AU,Family,3,152.0,macOS,False
+74,2023-04-22,66,Female,GB,Free,1,718.0,macOS,True
+129,2022-08-02,91,Female,JP,Free,1,405.0,Android,True
+376,2021-05-21,83,Male,US,Family,3,968.0,Linux,False
+812,2023-04-05,32,Female,DE,Premium,2,645.0,iOS,True
+160,2023-02-25,64,Other,GB,Free,1,11.0,Linux,True
+819,2021-09-10,81,Female,JP,Free,1,251.0,Linux,True
+1,2023-05-23,39,Non-binary,US,Family,3,745.0,macOS,True
+739,2023-04-09,62,Male,ZA,Free,1,702.0,Linux,False
+282,2024-02-04,47,Other,GB,Free,1,742.0,macOS,True
+961,2022-06-12,39,Female,FR,Premium,2,233.0,macOS,True
+476,2021-12-30,30,Other,FR,Family,3,249.0,Linux,False
+270,2024-10-20,16,Male,DE,Premium,2,209.0,Windows,False
+243,2023-03-31,78,Other,DE,Premium,2,696.0,iOS,False
+827,2021-02-09,84,Non-binary,GB,Family,3,11.0,iOS,False
+403,2024-04-13,69,Prefer not to say,BR,Premium,2,815.0,iOS,False
+352,2021-10-15,33,Female,FR,Family,3,282.0,iOS,True
+736,2024-02-22,14,Other,GB,Free,1,488.0,iOS,True
+537,2023-10-27,67,Non-binary,GB,Premium,2,246.0,Windows,False
+664,2024-11-15,30,Other,DE,Free,1,425.0,iOS,True
+446,2024-11-10,60,Other,ZA,Family,3,765.0,iOS,False
+64,2022-02-05,97,Female,SE,Family,3,198.0,Linux,True
+5,2024-01-25,13,Prefer not to say,AU,Family,3,570.0,iOS,False
+39,2022-04-08,63,Non-binary,AU,Free,1,57.0,Android,True
+575,2023-07-08,99,Prefer not to say,CA,Family,3,178.0,Android,True
+514,2023-05-23,42,Non-binary,FR,Premium,2,685.0,Linux,True
+748,2021-03-21,83,Female,GB,Free,1,568.0,macOS,False
+895,2021-01-08,85,Female,ZA,Premium,2,612.0,Linux,False
+174,2021-03-26,55,Male,FR,Premium,2,225.0,Android,True
+958,2021-07-06,39,Non-binary,GB,Premium,2,206.0,Windows,False
+932,2022-01-12,72,Non-binary,SE,Family,3,425.0,iOS,False
+616,2024-08-17,66,Female,ZA,Premium,2,129.0,iOS,True
+530,2023-01-28,54,Male,AU,Free,1,889.0,macOS,False
+176,2024-03-09,29,Prefer not to say,CA,Premium,2,268.0,macOS,True
+178,2024-05-08,77,Female,GB,Free,1,719.0,Linux,True
+18,2023-12-10,31,Other,AU,Free,1,156.0,Windows,True
+433,2024-06-15,18,Male,ZA,Family,3,204.0,macOS,False
+192,2023-12-20,51,Prefer not to say,SE,Premium,2,281.0,Linux,False
+133,2023-12-22,23,Non-binary,BR,Free,1,412.0,Windows,True
+63,2024-08-09,42,Male,ZA,Premium,2,124.0,Android,True
+641,2023-05-25,34,Male,CA,Family,3,124.0,macOS,False
+686,2023-02-11,52,Other,CA,Premium,2,753.0,macOS,True
+632,2024-07-23,80,Non-binary,SE,Family,3,345.0,iOS,True
+110,2022-10-26,52,Other,JP,Premium,2,568.0,iOS,True
+41,2024-03-30,61,Prefer not to say,GB,Family,3,,macOS,True
+106,2021-03-20,25,Non-binary,BR,Premium,2,623.0,macOS,False
+752,2021-01-02,22,Non-binary,CA,Premium,2,628.0,Windows,False
+740,2023-02-11,97,Female,BR,Free,1,976.0,iOS,True
+295,2021-04-18,66,Non-binary,ZA,Free,1,631.0,Linux,False
+55,2024-11-26,14,Prefer not to say,DE,Family,3,348.0,Linux,True
+320,2021-01-09,62,Male,JP,Family,3,284.0,macOS,True
+810,2023-11-15,13,Non-binary,BR,Premium,2,801.0,Windows,False
+143,2021-12-22,19,Prefer not to say,ZA,Premium,2,422.0,Windows,False
+796,2024-11-13,45,Other,FR,Free,1,559.0,Android,False
+463,2022-07-12,70,Non-binary,GB,Premium,2,815.0,Linux,False
+141,2021-02-09,66,Female,GB,Free,1,235.0,iOS,False
+934,2021-02-09,81,Male,AU,Premium,2,222.0,iOS,False
+518,2023-03-19,28,Prefer not to say,US,Free,1,52.0,Linux,False
+672,2024-12-11,29,Female,JP,Family,3,72.0,iOS,True
+96,2024-12-01,59,Non-binary,AU,Family,3,616.0,iOS,True
+372,2022-05-08,88,Female,BR,Free,1,,macOS,False
+633,2022-12-06,75,Female,US,Free,1,297.0,macOS,True
+645,2021-05-27,71,Non-binary,AU,Family,3,211.0,Windows,False
+62,2023-02-02,21,Female,AU,Free,1,696.0,iOS,True
+604,2023-05-26,89,Prefer not to say,US,Premium,2,85.0,Android,True
+945,2022-01-02,98,Male,ZA,Free,1,,Linux,True
+787,2023-06-13,63,Male,FR,Premium,2,905.0,Linux,True
+207,2024-08-06,42,Male,ZA,Free,1,455.0,Linux,True
+913,2021-01-02,70,Female,ZA,Free,1,495.0,Linux,True
+683,2021-12-01,68,Male,US,Premium,2,536.0,Windows,False
+57,2021-11-03,93,Female,ZA,Free,1,95.0,Linux,True
+128,2021-06-30,22,Male,US,Family,3,627.0,Linux,True
+922,2021-08-31,57,Non-binary,ZA,Premium,2,365.0,Linux,False
+209,2023-07-03,74,Male,JP,Premium,2,469.0,Linux,True
+451,2023-12-15,86,Prefer not to say,DE,Family,3,878.0,Linux,False
+526,2024-07-19,18,Non-binary,CA,Family,3,333.0,macOS,False
+573,2024-09-14,22,Non-binary,CA,Free,1,76.0,Windows,True
+659,2023-08-22,81,Non-binary,CA,Family,3,782.0,Windows,True
+999,2021-10-16,23,Prefer not to say,ZA,Premium,2,980.0,Linux,False
+760,2021-05-05,49,Other,FR,Family,3,520.0,Windows,True
+25,2021-12-05,37,Non-binary,GB,Family,3,33.0,Windows,True
+88,2024-11-05,72,Other,CA,Family,3,992.0,macOS,True
+0,2024-11-06,14,Non-binary,US,Family,3,208.0,Android,False
+395,2022-07-12,44,Female,GB,Free,1,240.0,macOS,True
+350,2022-04-21,98,Male,BR,Family,3,709.0,Android,True
+366,2022-03-02,65,Non-binary,JP,Free,1,85.0,Linux,True
+30,2024-12-01,98,Non-binary,SE,Free,1,683.0,Linux,True
+884,2021-11-19,65,Female,AU,Premium,2,262.0,macOS,False
+260,2022-06-23,78,Non-binary,AU,Premium,2,862.0,iOS,False
+775,2021-07-02,66,Male,CA,Premium,2,907.0,iOS,True
+881,2022-07-13,85,Prefer not to say,SE,Free,1,724.0,Windows,True
+820,2024-06-04,57,Prefer not to say,BR,Premium,2,239.0,iOS,False
+626,2023-05-03,68,Other,CA,Family,3,939.0,macOS,False
+412,2022-08-17,42,Female,JP,Free,1,64.0,Windows,False
+629,2021-09-06,61,Male,BR,Family,3,820.0,Linux,False
+746,2021-01-19,42,Non-binary,GB,Free,1,460.0,Linux,True
+501,2022-02-04,47,Prefer not to say,BR,Family,3,950.0,Windows,False
+312,2021-04-01,38,Male,DE,Family,3,208.0,Linux,False
+917,2022-07-05,55,Non-binary,JP,Free,1,720.0,macOS,True
+663,2024-03-28,43,Male,DE,Family,3,968.0,Linux,False
+886,2023-11-17,67,Non-binary,DE,Premium,2,344.0,iOS,True
+237,2024-10-15,45,Male,AU,Family,3,108.0,Linux,False
+839,2022-09-16,55,Prefer not to say,CA,Free,1,392.0,iOS,False
+323,2023-10-31,25,Male,CA,Family,3,598.0,Android,False
+460,2023-08-30,46,Other,CA,Family,3,630.0,Windows,False
+861,2021-11-13,43,Non-binary,ZA,Free,1,482.0,Windows,True
+355,2022-03-20,96,Prefer not to say,DE,Premium,2,933.0,Windows,False
+250,2023-02-13,51,Female,AU,Premium,2,578.0,iOS,False
+916,2024-03-09,14,Prefer not to say,ZA,Free,1,641.0,iOS,True
+965,2022-11-06,39,Male,ZA,Family,3,957.0,macOS,True
+311,2021-11-29,76,Other,GB,Free,1,940.0,iOS,False
+306,2024-12-21,27,Prefer not to say,AU,Free,1,341.0,Linux,True
+227,2021-06-18,27,Female,DE,Premium,2,286.0,iOS,True
+23,2024-10-27,45,Other,ZA,Premium,2,749.0,Android,False
+553,2024-03-27,44,Other,JP,Free,1,525.0,Android,True
+255,2024-05-09,54,Female,FR,Family,3,447.0,iOS,False
+849,2024-03-06,15,Non-binary,GB,Free,1,699.0,macOS,True
+171,2021-10-31,75,Other,AU,Free,1,661.0,Windows,True
+635,2023-07-13,31,Non-binary,US,Premium,2,914.0,Linux,False
+612,2023-12-25,62,Prefer not to say,SE,Free,1,754.0,Android,False
+112,2022-02-01,30,Other,BR,Premium,2,227.0,Android,False
+467,2021-09-22,53,Non-binary,AU,Family,3,937.0,macOS,False
+341,2022-12-02,74,Prefer not to say,SE,Free,1,750.0,Linux,True
+875,2023-04-18,39,Prefer not to say,DE,Premium,2,101.0,iOS,False
+362,2024-01-28,26,Female,FR,Family,3,960.0,Linux,False
+168,2022-01-20,47,Other,FR,Family,3,789.0,Linux,False
+400,2022-05-05,98,Male,DE,Free,1,245.0,iOS,False
+872,2021-12-09,37,Prefer not to say,AU,Premium,2,986.0,iOS,False
+159,2022-05-11,60,Non-binary,JP,Family,3,817.0,Linux,False
+592,2022-01-09,40,Female,AU,Family,3,714.0,Android,False
+454,2023-04-15,52,Prefer not to say,ZA,Premium,2,,macOS,False
+101,2021-04-01,76,Female,DE,Family,3,352.0,macOS,True
+666,2022-01-30,19,Female,SE,Free,1,427.0,Windows,True
+87,2023-07-26,14,Prefer not to say,ZA,Free,1,603.0,Windows,True
+468,2023-04-10,16,Other,SE,Premium,2,719.0,Windows,False
+327,2021-08-04,27,Male,GB,Premium,2,227.0,iOS,False
+982,2023-02-15,21,Female,CA,Premium,2,210.0,iOS,True
+621,2024-03-23,99,Other,ZA,Free,1,712.0,Linux,False
+483,2022-07-13,61,Other,FR,Premium,2,867.0,Windows,False
+145,2023-08-10,36,Female,AU,Free,1,707.0,iOS,True
+619,2022-08-06,59,Other,AU,Free,1,358.0,macOS,False
+570,2021-01-10,76,Other,GB,Premium,2,996.0,macOS,True
+634,2024-10-27,72,Male,CA,Family,3,747.0,macOS,True
+444,2024-06-21,27,Other,ZA,Free,1,181.0,Windows,False
+286,2022-03-01,94,Non-binary,BR,Free,1,923.0,iOS,True
+249,2024-12-27,37,Male,DE,Free,1,740.0,Windows,True
+215,2022-04-09,84,Prefer not to say,ZA,Premium,2,311.0,Linux,True
+429,2022-11-01,40,Prefer not to say,JP,Free,1,948.0,Linux,False
+674,2022-03-21,99,Male,CA,Family,3,645.0,Windows,False
+52,2022-10-20,64,Other,FR,Free,1,670.0,Linux,False
+281,2023-08-30,31,Prefer not to say,CA,Family,3,964.0,macOS,False
+853,2021-07-10,13,Male,JP,Premium,2,570.0,Linux,False
+931,2022-03-28,27,Prefer not to say,FR,Premium,2,284.0,macOS,False
+137,2021-07-18,28,Female,CA,Premium,2,245.0,Linux,False
+198,2021-12-06,27,Non-binary,DE,Family,3,1000.0,macOS,True
+955,2021-08-17,89,Non-binary,GB,Free,1,626.0,Windows,True
+730,2024-01-23,59,Other,DE,Free,1,144.0,Linux,True
+343,2021-05-19,63,Other,US,Free,1,,Linux,False
+842,2023-11-23,78,Male,AU,Free,1,831.0,Linux,False
+815,2022-05-11,89,Female,BR,Family,3,907.0,Android,False
+519,2024-01-21,76,Male,CA,Premium,2,110.0,Android,False
+838,2023-11-30,91,Non-binary,SE,Free,1,760.0,Windows,True
+347,2023-05-28,22,Non-binary,CA,Free,1,303.0,iOS,False
+413,2023-03-27,70,Male,JP,Family,3,108.0,macOS,True
+840,2023-12-09,99,Male,US,Family,3,260.0,Android,False
+453,2024-03-26,43,Other,ZA,Free,1,692.0,iOS,False
+298,2023-12-23,91,Other,SE,Premium,2,233.0,Linux,True
+219,2024-06-03,94,Female,ZA,Premium,2,296.0,Linux,True
+607,2024-10-25,67,Male,JP,Family,3,304.0,Android,True
+480,2021-10-09,74,Non-binary,ZA,Premium,2,736.0,Windows,True
+369,2021-08-30,58,Non-binary,US,Family,3,519.0,Windows,False
+743,2023-05-07,40,Non-binary,JP,Family,3,23.0,Android,True
+92,2023-04-14,96,Prefer not to say,AU,Family,3,75.0,macOS,False
+962,2024-03-11,14,Prefer not to say,SE,Family,3,962.0,macOS,False
+550,2022-09-02,56,Male,DE,Family,3,491.0,Android,True
+14,2023-11-15,42,Female,AU,Family,3,761.0,macOS,False
+599,2021-10-15,67,Other,CA,Premium,2,190.0,iOS,False
+435,2023-02-20,44,Non-binary,ZA,Family,3,31.0,Linux,True
+600,2021-02-01,70,Prefer not to say,BR,Family,3,271.0,iOS,True
+551,2023-03-08,41,Female,SE,Free,1,798.0,Linux,True
+578,2023-12-10,73,Non-binary,CA,Family,3,819.0,iOS,True
+290,2023-08-07,54,Non-binary,BR,Premium,2,634.0,Android,False
+54,2022-06-08,75,Non-binary,DE,Family,3,910.0,Windows,True
+972,2021-01-09,68,Other,JP,Premium,2,465.0,Android,False
+710,2021-06-18,41,Non-binary,US,Premium,2,240.0,Android,True
+622,2024-11-21,50,Female,JP,Free,1,331.0,Linux,True
+767,2024-09-08,96,Female,JP,Free,1,141.0,Windows,True
+671,2022-04-20,96,Female,SE,Free,1,901.0,Windows,True
+134,2022-01-13,16,Female,AU,Premium,2,604.0,Android,False
+455,2022-09-30,74,Non-binary,US,Free,1,773.0,Android,False
+889,2023-10-05,55,Female,US,Family,3,281.0,iOS,False
+288,2022-06-05,13,Male,CA,Free,1,718.0,iOS,True
+973,2021-04-09,68,Male,GB,Family,3,330.0,Windows,False
+331,2022-01-16,40,Other,CA,Free,1,652.0,macOS,False
+618,2021-08-26,83,Prefer not to say,US,Family,3,558.0,macOS,True
+229,2023-02-08,83,Prefer not to say,JP,Premium,2,595.0,Windows,True
+662,2022-01-31,86,Non-binary,GB,Premium,2,424.0,Android,True
+284,2023-03-20,51,Non-binary,DE,Family,3,933.0,Linux,False
+879,2022-12-21,28,Other,GB,Family,3,961.0,Android,False
+871,2024-03-08,70,Non-binary,ZA,Family,3,310.0,Linux,False
+303,2024-10-27,14,Female,US,Free,1,896.0,macOS,False
+560,2021-07-10,90,Female,GB,Premium,2,451.0,iOS,True
+333,2024-07-14,46,Prefer not to say,FR,Family,3,740.0,macOS,True
+345,2023-10-27,79,Female,ZA,Premium,2,517.0,Linux,False
+293,2022-07-01,54,Prefer not to say,US,Premium,2,872.0,iOS,False
+149,2022-05-18,97,Other,FR,Free,1,424.0,Linux,True
+259,2021-01-09,82,Female,GB,Premium,2,,Linux,True
+930,2024-12-05,89,Prefer not to say,AU,Premium,2,507.0,Android,True
+364,2022-08-11,55,Other,SE,Family,3,191.0,macOS,False
+268,2021-09-11,52,Other,FR,Free,1,451.0,Windows,False
+925,2023-01-21,37,Other,SE,Premium,2,702.0,Android,True
+756,2023-08-20,68,Non-binary,US,Free,1,32.0,Windows,False
+247,2023-05-29,93,Other,US,Premium,2,949.0,iOS,False
+617,2024-04-05,21,Non-binary,US,Free,1,448.0,Linux,True
+870,2023-10-06,36,Non-binary,BR,Free,1,225.0,Android,False
+156,2023-11-11,96,Non-binary,ZA,Free,1,830.0,Windows,False
+194,2021-10-13,32,Other,US,Free,1,281.0,Android,False
+569,2021-11-09,38,Non-binary,CA,Family,3,487.0,macOS,False
+880,2021-10-17,22,Other,JP,Family,3,28.0,Linux,False
+148,2021-07-18,58,Prefer not to say,JP,Family,3,40.0,Windows,True
+813,2023-08-21,61,Male,ZA,Premium,2,836.0,Android,False
+685,2021-02-09,50,Non-binary,BR,Family,3,,Windows,True
+346,2021-10-08,45,Male,SE,Free,1,175.0,Linux,False
+863,2024-12-14,82,Prefer not to say,GB,Free,1,320.0,Linux,False
+326,2021-11-21,27,Prefer not to say,US,Premium,2,669.0,Windows,True
+4,2021-10-15,73,Prefer not to say,BR,Free,1,977.0,Android,True
+107,2023-06-04,34,Non-binary,US,Premium,2,98.0,macOS,False
+597,2022-06-17,62,Prefer not to say,BR,Family,3,832.0,macOS,True
+677,2023-07-03,28,Female,BR,Free,1,348.0,Android,False
+231,2022-12-05,13,Male,SE,Premium,2,296.0,Windows,False
+851,2024-05-20,75,Non-binary,BR,Free,1,102.0,Linux,True
+723,2023-04-11,66,Other,SE,Family,3,664.0,iOS,False
+698,2024-04-12,57,Other,DE,Family,3,208.0,Android,False
+544,2022-11-11,98,Prefer not to say,DE,Free,1,69.0,Android,True
+384,2024-12-12,32,Non-binary,DE,Free,1,,macOS,True
+595,2024-07-07,69,Prefer not to say,SE,Free,1,354.0,macOS,True
+324,2021-10-15,24,Female,GB,Premium,2,696.0,Windows,False
+953,2024-02-23,18,Prefer not to say,BR,Premium,2,39.0,Android,True
+717,2023-05-28,96,Female,JP,Premium,2,862.0,iOS,True
+448,2024-05-30,57,Male,CA,Premium,2,936.0,Linux,True
+208,2023-02-25,60,Non-binary,DE,Free,1,334.0,macOS,True
+69,2022-10-17,90,Other,US,Free,1,687.0,macOS,True
+294,2024-08-18,85,Female,CA,Free,1,5.0,Android,False
+490,2021-03-16,27,Male,ZA,Premium,2,,Windows,True
+942,2024-07-14,27,Prefer not to say,GB,Free,1,25.0,Android,False
+614,2024-04-21,56,Female,ZA,Premium,2,290.0,Android,True
+411,2023-03-10,70,Non-binary,FR,Family,3,648.0,Windows,False
+791,2021-03-21,21,Female,JP,Family,3,975.0,Windows,False
+276,2022-04-13,28,Female,SE,Premium,2,33.0,Android,False
+585,2023-07-08,26,Prefer not to say,DE,Family,3,174.0,Android,True
+9,2022-06-07,68,Non-binary,BR,Family,3,32.0,Windows,False
+242,2021-01-31,39,Prefer not to say,DE,Free,1,589.0,Android,True
+678,2023-11-03,78,Prefer not to say,CA,Premium,2,6.0,macOS,False
+34,2022-07-27,88,Female,JP,Family,3,542.0,macOS,True
+414,2023-08-17,97,Other,CA,Free,1,81.0,macOS,True
+180,2023-06-13,96,Non-binary,FR,Premium,2,528.0,Android,False
+502,2023-11-16,47,Non-binary,GB,Premium,2,326.0,Linux,False
+475,2021-05-06,33,Male,AU,Family,3,973.0,Windows,True
+532,2021-07-13,97,Prefer not to say,US,Family,3,694.0,Windows,True
+67,2024-08-26,80,Male,CA,Family,3,474.0,iOS,True
+289,2024-03-10,49,Prefer not to say,SE,Premium,2,70.0,iOS,True
+898,2021-06-20,94,Female,DE,Premium,2,307.0,Android,False
+452,2023-04-19,93,Prefer not to say,US,Free,1,10.0,Android,True
+911,2021-10-01,83,Prefer not to say,BR,Family,3,366.0,Android,False
+533,2022-06-22,83,Non-binary,CA,Family,3,474.0,macOS,False
+548,2022-01-25,69,Male,AU,Family,3,611.0,Android,True
+430,2024-04-25,21,Non-binary,FR,Family,3,355.0,Windows,False
+557,2021-07-30,37,Male,BR,Family,3,254.0,Windows,True
+66,2023-08-02,79,Female,DE,Family,3,710.0,Android,True
+598,2021-04-26,95,Female,AU,Premium,2,696.0,Android,False
+709,2023-08-22,44,Male,CA,Family,3,902.0,Windows,True
+605,2024-07-07,42,Non-binary,BR,Family,3,665.0,Windows,True
+47,2022-11-28,45,Male,DE,Free,1,842.0,Android,True
+711,2022-10-23,38,Other,US,Free,1,531.0,Windows,True
+784,2021-04-16,83,Female,SE,Premium,2,945.0,iOS,True
+287,2024-02-24,41,Female,US,Premium,2,789.0,iOS,False
+652,2022-07-31,87,Non-binary,US,Free,1,927.0,Linux,True
+438,2022-07-19,51,Male,FR,Premium,2,312.0,iOS,True
+627,2022-02-13,13,Prefer not to say,CA,Family,3,23.0,iOS,True
+150,2022-03-31,69,Prefer not to say,FR,Free,1,34.0,Android,True
+440,2021-09-09,95,Female,FR,Premium,2,204.0,macOS,False
+84,2024-06-23,24,Female,CA,Premium,2,72.0,Windows,False
+836,2024-11-18,60,Male,SE,Family,3,997.0,iOS,True
+971,2022-11-01,38,Prefer not to say,AU,Premium,2,848.0,Linux,True
+606,2022-04-23,52,Female,FR,Premium,2,930.0,macOS,False
+980,2021-03-11,51,Other,ZA,Premium,2,182.0,Android,False
+68,2021-02-23,40,Female,JP,Free,1,802.0,iOS,True
+277,2023-12-03,58,Other,DE,Family,3,669.0,Linux,False
+545,2024-11-14,41,Non-binary,CA,Free,1,460.0,iOS,True
+642,2022-09-18,20,Other,AU,Family,3,29.0,macOS,False
+164,2022-02-09,17,Prefer not to say,ZA,Free,1,843.0,Linux,True
+615,2022-09-15,24,Non-binary,SE,Family,3,188.0,Linux,True
+927,2021-11-05,45,Male,ZA,Family,3,182.0,Android,False
+10,2024-07-17,27,Prefer not to say,SE,Family,3,617.0,macOS,True
+608,2023-08-19,39,Female,CA,Free,1,793.0,Linux,False
+342,2022-07-23,38,Other,ZA,Premium,2,868.0,Linux,True
+735,2024-08-09,13,Female,JP,Family,3,884.0,Windows,True
+769,2022-12-14,95,Prefer not to say,JP,Premium,2,300.0,macOS,True
+81,2021-07-12,71,Male,CA,Free,1,720.0,Android,False
+59,2024-08-09,23,Female,FR,Family,3,391.0,macOS,True
+238,2024-07-05,91,Other,FR,Premium,2,451.0,macOS,False
+421,2021-03-21,89,Non-binary,JP,Free,1,27.0,Windows,True
+725,2022-04-04,80,Male,DE,Family,3,608.0,macOS,False
+179,2023-02-23,22,Other,BR,Free,1,864.0,macOS,False
+974,2022-05-12,55,Female,CA,Family,3,819.0,Windows,False
+71,2021-07-09,86,Male,FR,Family,3,199.0,macOS,False
+858,2021-02-23,40,Male,CA,Family,3,634.0,iOS,False
+113,2021-08-19,61,Other,CA,Free,1,,macOS,True
+419,2024-10-23,35,Non-binary,FR,Premium,2,927.0,Android,False
+669,2023-04-21,31,Other,SE,Premium,2,711.0,Linux,False
+513,2022-12-15,40,Male,US,Family,3,73.0,Linux,True
+262,2022-07-16,76,Non-binary,CA,Family,3,871.0,Android,False
+108,2023-11-01,51,Female,AU,Premium,2,724.0,Windows,True
+712,2021-07-26,72,Non-binary,GB,Premium,2,215.0,Android,False
+48,2023-08-16,44,Prefer not to say,GB,Free,1,172.0,macOS,True
+181,2022-12-01,96,Female,JP,Premium,2,310.0,Android,False
+563,2024-01-30,17,Prefer not to say,ZA,Family,3,944.0,macOS,False
+391,2024-04-17,13,Non-binary,BR,Premium,2,551.0,Linux,False
+124,2021-09-26,46,Other,ZA,Free,1,362.0,iOS,False
+797,2021-05-14,84,Male,US,Family,3,366.0,macOS,False
+631,2021-09-05,72,Male,ZA,Premium,2,957.0,iOS,True
+375,2024-09-13,24,Non-binary,BR,Family,3,996.0,macOS,False
+267,2022-03-12,71,Male,ZA,Free,1,856.0,Linux,False
+623,2024-05-11,58,Other,DE,Free,1,719.0,Android,False
+822,2023-02-22,31,Female,JP,Free,1,900.0,Linux,True
+770,2023-03-12,79,Female,DE,Free,1,984.0,Windows,True
+580,2021-08-02,13,Other,SE,Free,1,91.0,Windows,False
+824,2021-04-26,20,Female,CA,Premium,2,13.0,macOS,False
+991,2022-09-14,49,Female,BR,Premium,2,609.0,Android,False
+280,2022-06-05,75,Other,DE,Family,3,634.0,macOS,True
+182,2022-07-08,71,Prefer not to say,GB,Premium,2,111.0,Linux,True
+985,2024-10-11,14,Other,CA,Premium,2,697.0,Android,False
+131,2021-06-23,81,Non-binary,AU,Family,3,523.0,Linux,True
+445,2024-02-27,91,Other,BR,Free,1,116.0,Linux,False
+734,2023-03-14,38,Prefer not to say,DE,Family,3,971.0,Windows,False
+591,2021-07-07,16,Other,AU,Premium,2,378.0,Android,True
+189,2021-02-20,26,Female,GB,Family,3,605.0,iOS,False
+360,2021-11-24,42,Other,JP,Premium,2,486.0,macOS,False
+368,2022-01-16,51,Non-binary,GB,Family,3,595.0,Android,False
+203,2023-12-14,42,Other,ZA,Free,1,830.0,Linux,False
+707,2024-06-02,38,Prefer not to say,DE,Family,3,643.0,macOS,False
+912,2024-08-04,55,Female,DE,Family,3,254.0,Windows,False
+795,2022-07-24,19,Other,DE,Family,3,84.0,Windows,False
+800,2022-04-12,81,Non-binary,DE,Free,1,887.0,iOS,False
+158,2024-12-30,49,Non-binary,DE,Free,1,332.0,Android,False
+783,2023-02-24,91,Female,BR,Family,3,,iOS,True
+747,2022-01-07,77,Prefer not to say,US,Free,1,960.0,Android,True
+742,2022-04-15,24,Prefer not to say,US,Premium,2,660.0,Linux,True
+418,2023-01-23,25,Non-binary,US,Premium,2,181.0,iOS,False
+523,2023-03-03,13,Male,JP,Premium,2,35.0,Windows,True
+15,2021-01-20,61,Other,GB,Premium,2,245.0,iOS,False
+291,2024-11-01,43,Male,AU,Premium,2,439.0,Windows,False
+528,2023-04-21,45,Female,ZA,Family,3,624.0,Android,True
+125,2023-05-11,57,Prefer not to say,CA,Free,1,896.0,Linux,False
+130,2021-11-05,59,Female,CA,Premium,2,141.0,Linux,True
+45,2024-01-22,13,Male,US,Free,1,635.0,iOS,False
+210,2023-12-13,22,Non-binary,GB,Free,1,85.0,iOS,False
+993,2021-05-19,81,Non-binary,US,Premium,2,481.0,Linux,False
+696,2023-05-19,95,Non-binary,JP,Premium,2,73.0,iOS,True
+949,2023-08-19,85,Prefer not to say,BR,Free,1,374.0,Android,True
+257,2024-05-04,91,Non-binary,CA,Free,1,606.0,iOS,False
+892,2024-07-05,84,Prefer not to say,AU,Family,3,805.0,Windows,True
+657,2021-05-21,90,Other,DE,Free,1,259.0,Windows,False
+693,2021-06-04,25,Other,JP,Free,1,913.0,iOS,False
+833,2021-10-16,25,Non-binary,GB,Free,1,934.0,Linux,False
+970,2022-02-17,48,Other,BR,Free,1,968.0,Windows,True
+583,2023-12-30,96,Male,US,Premium,2,778.0,Windows,True
+869,2021-09-30,40,Non-binary,CA,Free,1,77.0,Windows,False
+630,2023-05-26,96,Other,CA,Free,1,259.0,macOS,False
+549,2024-09-18,29,Non-binary,DE,Premium,2,68.0,iOS,True
+228,2024-04-30,34,Other,FR,Premium,2,,macOS,False
+516,2023-08-04,32,Male,CA,Family,3,916.0,Linux,False
+624,2023-11-11,76,Other,US,Free,1,909.0,Windows,True
+904,2021-07-15,72,Female,CA,Free,1,743.0,iOS,True
+581,2021-01-15,48,Female,US,Family,3,101.0,Windows,True
+165,2022-09-26,20,Female,FR,Premium,2,687.0,macOS,False
+988,2021-05-11,58,Male,SE,Premium,2,,Android,False
+755,2024-08-30,36,Other,GB,Free,1,,Linux,False
+370,2024-04-10,70,Female,SE,Premium,2,934.0,Windows,True
+868,2021-08-13,88,Other,DE,Family,3,923.0,macOS,False
+524,2021-03-12,40,Prefer not to say,CA,Free,1,20.0,iOS,False
+373,2023-08-13,66,Other,SE,Family,3,740.0,Windows,False
+864,2023-07-27,87,Male,US,Premium,2,480.0,macOS,True
+173,2022-06-24,31,Prefer not to say,CA,Family,3,469.0,Windows,True
+584,2022-12-16,17,Prefer not to say,CA,Family,3,47.0,macOS,True
+854,2021-12-17,45,Male,CA,Premium,2,945.0,Linux,True
+420,2022-04-04,16,Prefer not to say,FR,Premium,2,28.0,Linux,False
+832,2022-09-03,77,Female,US,Premium,2,363.0,Android,True
+759,2024-10-27,73,Prefer not to say,JP,Family,3,523.0,Windows,True
+643,2023-12-04,98,Female,BR,Family,3,642.0,Windows,False
+195,2024-03-24,43,Female,US,Premium,2,798.0,iOS,False
+964,2021-06-15,42,Female,JP,Free,1,751.0,Windows,False
+104,2022-12-05,59,Other,BR,Free,1,450.0,Linux,False
+252,2021-02-26,22,Non-binary,BR,Premium,2,155.0,iOS,True
+546,2024-08-16,95,Female,GB,Family,3,275.0,Android,False
+85,2024-10-23,72,Male,GB,Premium,2,603.0,iOS,False
+105,2021-01-06,23,Non-binary,SE,Free,1,54.0,Android,False
+241,2021-11-07,66,Male,BR,Family,3,955.0,Android,False
+534,2021-09-21,39,Male,CA,Family,3,990.0,macOS,True
+543,2024-02-15,28,Non-binary,US,Free,1,164.0,macOS,True
+856,2023-05-24,54,Female,AU,Free,1,781.0,Windows,False
+750,2024-04-03,13,Female,AU,Family,3,481.0,Windows,False
+175,2022-07-20,47,Prefer not to say,SE,Free,1,324.0,Android,False
+901,2022-02-05,72,Other,ZA,Family,3,254.0,Linux,False
+667,2022-09-12,99,Other,DE,Family,3,973.0,macOS,True
+53,2024-08-30,83,Prefer not to say,DE,Premium,2,297.0,Windows,True
+97,2024-02-29,79,Non-binary,US,Premium,2,558.0,macOS,False
+834,2022-01-21,33,Non-binary,FR,Premium,2,618.0,iOS,False
+960,2021-08-23,57,Prefer not to say,BR,Free,1,579.0,Linux,True
+665,2024-10-14,68,Male,ZA,Premium,2,720.0,Android,False
+536,2024-12-30,74,Male,DE,Free,1,568.0,macOS,True
+89,2024-01-18,22,Non-binary,AU,Premium,2,299.0,macOS,True
+808,2024-08-05,16,Male,SE,Family,3,537.0,Windows,True
+447,2022-05-01,49,Other,FR,Premium,2,377.0,Android,True
+777,2023-08-25,99,Female,US,Premium,2,750.0,iOS,False
+620,2023-01-03,17,Non-binary,BR,Premium,2,427.0,Windows,False
+773,2022-10-10,13,Non-binary,BR,Free,1,737.0,macOS,False
+890,2023-02-17,55,Prefer not to say,ZA,Family,3,931.0,macOS,True
+402,2021-03-28,37,Prefer not to say,GB,Family,3,786.0,iOS,True
+515,2023-11-12,16,Prefer not to say,ZA,Premium,2,806.0,macOS,True
+224,2024-06-24,58,Other,JP,Family,3,780.0,Android,False
+997,2023-09-09,13,Non-binary,FR,Family,3,437.0,Windows,False
+98,2021-01-29,18,Other,JP,Free,1,639.0,iOS,False
+975,2021-03-28,16,Other,JP,Family,3,573.0,macOS,True
+100,2022-05-29,73,Prefer not to say,FR,Premium,2,571.0,iOS,True
+330,2021-10-04,35,Male,ZA,Family,3,317.0,Android,False
+308,2024-02-14,66,Other,AU,Free,1,646.0,macOS,False
+998,2021-06-11,77,Other,ZA,Free,1,546.0,Android,True
+801,2021-05-08,77,Male,FR,Free,1,433.0,iOS,True
+882,2021-03-08,76,Male,AU,Family,3,436.0,Linux,False
+651,2024-11-04,77,Other,JP,Premium,2,985.0,iOS,True
+322,2024-04-16,19,Non-binary,FR,Free,1,895.0,macOS,True
+907,2022-01-27,18,Non-binary,CA,Family,3,242.0,macOS,False
+299,2022-07-14,44,Male,BR,Premium,2,911.0,Windows,True
+152,2023-08-05,53,Other,BR,Premium,2,945.0,Windows,False
+275,2024-11-26,58,Prefer not to say,DE,Family,3,138.0,Windows,False
+594,2023-03-16,91,Prefer not to say,BR,Family,3,988.0,iOS,True
+887,2022-03-22,79,Female,FR,Free,1,854.0,Android,False
+136,2023-02-16,49,Female,BR,Family,3,648.0,Android,False
+681,2021-03-21,42,Prefer not to say,JP,Free,1,183.0,Linux,False
+896,2021-01-11,36,Male,JP,Family,3,426.0,Android,False
+909,2023-09-25,67,Male,JP,Free,1,342.0,Android,False
+613,2024-09-04,84,Prefer not to say,CA,Family,3,840.0,Android,False
+668,2022-04-15,28,Prefer not to say,JP,Premium,2,495.0,Linux,True
+914,2024-07-28,44,Female,GB,Premium,2,111.0,Windows,True
+381,2022-03-05,47,Non-binary,CA,Family,3,953.0,Windows,False
+720,2022-10-05,39,Other,CA,Premium,2,549.0,Android,False
+640,2024-07-14,13,Other,AU,Premium,2,881.0,Linux,False
+865,2021-02-23,34,Prefer not to say,SE,Family,3,560.0,Linux,True
+788,2023-07-15,33,Prefer not to say,SE,Family,3,869.0,Android,False
+307,2024-08-16,79,Other,US,Free,1,121.0,Windows,False
+897,2024-11-26,42,Female,CA,Premium,2,14.0,macOS,False
+680,2024-10-18,40,Other,GB,Family,3,265.0,Windows,False
+2,2021-01-13,98,Prefer not to say,CA,Family,3,407.0,Windows,False
+183,2024-12-03,17,Female,SE,Premium,2,535.0,macOS,True
+935,2024-08-10,86,Male,US,Premium,2,962.0,Windows,True
+954,2021-02-10,46,Male,GB,Premium,2,71.0,Linux,False
+410,2021-01-27,83,Other,FR,Premium,2,553.0,Windows,False
+969,2022-06-20,16,Female,ZA,Family,3,389.0,Windows,False
+49,2022-01-13,67,Non-binary,FR,Family,3,36.0,iOS,True
+968,2024-05-21,93,Non-binary,CA,Family,3,815.0,Windows,True
+36,2024-02-29,81,Prefer not to say,BR,Free,1,173.0,Windows,True
+758,2023-03-21,22,Male,FR,Free,1,760.0,macOS,True
+382,2022-07-05,98,Male,US,Free,1,,iOS,True
+292,2021-08-01,77,Non-binary,FR,Premium,2,706.0,Windows,True
+753,2022-10-04,40,Other,GB,Family,3,70.0,iOS,True
+325,2024-04-13,28,Non-binary,US,Premium,2,528.0,iOS,False
+610,2024-03-30,39,Non-binary,US,Family,3,141.0,Linux,True
+225,2023-06-19,21,Female,AU,Free,1,687.0,Windows,False
+749,2022-03-13,34,Female,DE,Family,3,344.0,Windows,True
+493,2023-10-25,48,Female,JP,Family,3,87.0,macOS,False
+431,2022-08-14,52,Female,CA,Premium,2,517.0,macOS,False
+239,2023-05-26,45,Female,US,Free,1,823.0,iOS,False
+17,2024-12-28,80,Female,JP,Free,1,394.0,Android,False
+682,2023-01-19,62,Non-binary,CA,Family,3,286.0,Windows,False
+80,2023-04-18,85,Other,AU,Premium,2,80.0,Linux,False
+344,2024-02-11,23,Other,ZA,Free,1,884.0,iOS,False
+745,2021-04-06,18,Male,GB,Premium,2,960.0,macOS,False
+470,2023-12-20,39,Prefer not to say,CA,Free,1,951.0,Android,True
+358,2024-03-27,54,Other,JP,Free,1,665.0,iOS,False
+837,2022-03-05,33,Male,BR,Family,3,914.0,Linux,False
+644,2023-11-27,58,Non-binary,CA,Family,3,976.0,macOS,True
+351,2024-05-18,81,Male,DE,Free,1,818.0,iOS,False
+816,2021-06-05,75,Non-binary,BR,Family,3,642.0,macOS,True
+802,2021-07-21,73,Female,AU,Free,1,979.0,macOS,True
+157,2022-09-02,33,Female,FR,Family,3,209.0,Linux,False
+876,2021-03-22,87,Other,JP,Family,3,993.0,Windows,True
+527,2024-05-08,43,Non-binary,GB,Free,1,658.0,iOS,True
+223,2023-10-22,29,Female,JP,Family,3,273.0,macOS,True
+365,2024-07-18,39,Other,ZA,Family,3,390.0,Android,False
+37,2023-04-23,24,Male,SE,Free,1,125.0,iOS,True
+691,2021-06-19,26,Prefer not to say,JP,Free,1,176.0,iOS,False
+708,2021-01-04,77,Male,FR,Family,3,148.0,Windows,True
+363,2023-04-17,50,Non-binary,US,Free,1,629.0,Android,True
+724,2022-06-29,17,Female,AU,Family,3,684.0,Android,False
+383,2022-04-23,68,Non-binary,GB,Family,3,377.0,Windows,False
+996,2023-10-26,71,Male,AU,Premium,2,985.0,iOS,True
+862,2023-10-11,33,Male,US,Family,3,478.0,iOS,True
+995,2022-01-06,86,Other,US,Premium,2,808.0,macOS,True
+465,2022-07-17,51,Other,SE,Premium,2,309.0,iOS,False
+866,2023-10-20,96,Non-binary,GB,Family,3,471.0,macOS,True
+90,2023-02-11,41,Female,JP,Free,1,727.0,Linux,False
+738,2021-03-01,29,Male,JP,Premium,2,,iOS,False
+116,2021-08-01,18,Prefer not to say,FR,Free,1,726.0,Windows,False
+339,2024-02-01,60,Prefer not to say,AU,Premium,2,648.0,Windows,True
+170,2023-07-13,88,Prefer not to say,GB,Family,3,987.0,Windows,True
+114,2023-01-18,43,Male,CA,Family,3,649.0,Android,True
+772,2021-09-11,18,Non-binary,US,Premium,2,429.0,Linux,True
+102,2024-09-27,50,Prefer not to say,SE,Premium,2,756.0,Linux,False
+661,2022-11-15,53,Female,BR,Family,3,804.0,iOS,False
+908,2024-11-07,49,Female,GB,Free,1,962.0,iOS,False
+660,2024-11-21,63,Male,FR,Family,3,224.0,Android,True
+571,2024-12-26,88,Other,DE,Family,3,955.0,Android,True
+396,2023-09-05,98,Female,JP,Premium,2,406.0,Linux,False
+891,2022-10-22,83,Other,ZA,Premium,2,696.0,iOS,False
+564,2022-06-23,60,Non-binary,ZA,Free,1,414.0,Linux,False
+509,2022-09-11,88,Non-binary,JP,Premium,2,875.0,Android,False
+727,2021-11-25,65,Non-binary,GB,Family,3,760.0,macOS,True
+705,2023-05-03,57,Non-binary,SE,Premium,2,520.0,Android,True
+831,2024-04-27,23,Other,CA,Free,1,469.0,macOS,True
+337,2021-08-22,28,Non-binary,FR,Premium,2,210.0,Linux,True
+779,2022-09-17,50,Prefer not to say,DE,Premium,2,381.0,Windows,False
+679,2022-11-08,62,Prefer not to say,US,Family,3,899.0,Windows,False
+508,2022-06-29,59,Male,FR,Premium,2,711.0,Linux,False
+491,2022-09-27,34,Male,DE,Free,1,419.0,Linux,True
+794,2021-12-11,86,Non-binary,GB,Premium,2,998.0,Windows,True
+248,2022-02-04,44,Female,BR,Premium,2,655.0,Android,False
+300,2021-03-08,43,Non-binary,AU,Family,3,703.0,Linux,False
+202,2024-04-28,57,Female,AU,Family,3,593.0,iOS,True
+334,2024-01-28,47,Prefer not to say,DE,Free,1,61.0,macOS,False
+314,2021-10-14,28,Prefer not to say,JP,Free,1,86.0,Linux,False
+505,2021-03-24,91,Male,US,Family,3,720.0,Linux,False
+846,2022-07-29,58,Female,US,Premium,2,655.0,Android,True
+479,2021-06-22,88,Female,US,Premium,2,226.0,Windows,True
+721,2022-01-24,32,Non-binary,BR,Premium,2,200.0,Windows,False
+496,2022-05-04,58,Non-binary,CA,Premium,2,49.0,iOS,True
+474,2024-04-17,75,Prefer not to say,CA,Family,3,101.0,iOS,True
+687,2022-08-03,33,Other,SE,Family,3,584.0,iOS,False
+729,2023-12-15,46,Non-binary,DE,Free,1,434.0,Android,True
+525,2022-10-06,45,Female,US,Premium,2,145.0,Windows,True
+792,2022-10-31,90,Male,FR,Family,3,95.0,Windows,False
+390,2024-04-06,79,Male,JP,Family,3,72.0,Linux,True
+823,2023-03-02,73,Prefer not to say,DE,Premium,2,250.0,iOS,True
+654,2024-03-31,13,Other,AU,Free,1,779.0,Android,True
+874,2024-08-20,65,Other,CA,Premium,2,111.0,Android,False
+885,2022-05-23,16,Male,US,Family,3,133.0,Windows,True
+473,2023-04-06,39,Non-binary,BR,Premium,2,501.0,Windows,False
+75,2022-05-29,36,Non-binary,GB,Free,1,340.0,Windows,False
+272,2022-01-07,51,Non-binary,ZA,Premium,2,236.0,Android,True
+377,2022-02-15,80,Prefer not to say,CA,Free,1,535.0,Android,False
+939,2023-07-16,54,Female,GB,Premium,2,631.0,Android,True
+271,2022-07-06,14,Non-binary,US,Premium,2,320.0,Linux,True
+567,2023-10-07,95,Other,US,Premium,2,9.0,Windows,False
+462,2021-05-16,47,Other,CA,Free,1,622.0,Linux,False
+704,2023-09-26,53,Prefer not to say,JP,Family,3,220.0,Android,True
+847,2022-07-08,45,Female,ZA,Free,1,924.0,Android,False
+251,2021-12-15,77,Prefer not to say,BR,Free,1,893.0,iOS,True
+426,2023-11-07,33,Male,CA,Premium,2,659.0,Linux,True
+43,2023-01-01,54,Female,ZA,Family,3,712.0,Linux,False
+821,2022-08-26,72,Female,FR,Premium,2,404.0,iOS,True
+555,2022-01-31,71,Non-binary,DE,Free,1,522.0,Android,False
+936,2021-10-12,90,Non-binary,DE,Premium,2,968.0,macOS,True
+602,2022-12-07,84,Prefer not to say,CA,Free,1,200.0,macOS,False
+694,2024-10-11,80,Prefer not to say,DE,Family,3,263.0,Android,False
+992,2021-07-14,59,Non-binary,FR,Premium,2,917.0,Linux,True
+673,2023-05-10,19,Female,AU,Free,1,318.0,macOS,True
+332,2022-01-01,32,Other,GB,Free,1,37.0,Windows,False
+469,2023-03-20,44,Non-binary,AU,Family,3,670.0,Android,True
+716,2023-08-21,50,Non-binary,AU,Free,1,501.0,Android,False
+637,2022-01-05,33,Male,US,Premium,2,369.0,macOS,False
+558,2024-12-13,82,Female,ZA,Premium,2,273.0,Linux,True
+577,2024-02-28,60,Other,JP,Premium,2,,Linux,True
+119,2021-08-03,22,Non-binary,US,Family,3,892.0,iOS,False
+76,2024-11-13,38,Non-binary,AU,Free,1,411.0,Android,True
+111,2021-05-12,90,Other,JP,Free,1,132.0,Linux,False
+478,2023-10-10,80,Female,SE,Family,3,817.0,Android,True
+20,2023-12-19,95,Male,CA,Free,1,349.0,Windows,False
+713,2022-04-23,58,Male,BR,Free,1,50.0,Android,False
+214,2021-06-06,56,Prefer not to say,AU,Free,1,262.0,Windows,False
+495,2023-01-11,83,Other,JP,Premium,2,916.0,macOS,True
+785,2022-02-23,14,Other,GB,Free,1,860.0,Windows,True
+492,2024-05-11,79,Female,JP,Family,3,460.0,iOS,True
+380,2023-04-29,18,Prefer not to say,GB,Premium,2,573.0,iOS,False
+42,2022-12-07,39,Female,DE,Family,3,351.0,Windows,False
+388,2022-01-17,22,Non-binary,JP,Free,1,12.0,Windows,False
+843,2023-12-19,25,Non-binary,DE,Family,3,651.0,macOS,True
+117,2021-07-05,58,Female,BR,Family,3,941.0,Linux,True
+967,2022-12-31,72,Other,BR,Family,3,845.0,Android,True
+589,2022-11-09,94,Male,ZA,Premium,2,905.0,Windows,True
+321,2021-01-26,65,Female,FR,Premium,2,49.0,macOS,True
+848,2023-10-11,62,Non-binary,CA,Family,3,982.0,iOS,True
+529,2021-02-18,71,Prefer not to say,US,Family,3,22.0,Linux,False
+27,2021-03-05,69,Male,US,Premium,2,72.0,Android,True
+700,2022-01-17,64,Non-binary,JP,Premium,2,241.0,Windows,True
+142,2023-08-05,49,Non-binary,DE,Free,1,319.0,Android,True
+841,2024-02-09,47,Female,AU,Free,1,583.0,Android,True
+61,2021-02-12,83,Prefer not to say,GB,Premium,2,568.0,Windows,True
+206,2022-04-26,63,Other,US,Premium,2,621.0,macOS,False
+540,2021-03-29,94,Non-binary,CA,Family,3,948.0,macOS,True
+703,2022-03-12,68,Female,CA,Free,1,919.0,iOS,True
+138,2021-11-17,57,Other,AU,Free,1,817.0,macOS,False
+782,2023-10-28,97,Female,CA,Family,3,128.0,Windows,False
+798,2023-08-21,63,Female,JP,Premium,2,558.0,Android,False
+825,2023-02-21,14,Prefer not to say,DE,Family,3,152.0,Linux,True
+559,2022-07-14,21,Female,FR,Family,3,,Android,False
+636,2023-08-16,81,Non-binary,CA,Premium,2,304.0,Linux,False
+552,2023-01-14,72,Male,SE,Premium,2,378.0,Android,True
+264,2021-07-25,39,Prefer not to say,GB,Free,1,529.0,Windows,True
+883,2024-07-15,71,Non-binary,SE,Free,1,318.0,iOS,False
+466,2023-04-21,27,Non-binary,AU,Premium,2,987.0,iOS,False
+702,2024-05-19,70,Prefer not to say,BR,Family,3,734.0,Android,False
+139,2021-09-28,17,Prefer not to say,CA,Free,1,864.0,Linux,False
+302,2023-10-09,35,Non-binary,FR,Free,1,481.0,Windows,False
+562,2023-03-25,66,Male,DE,Free,1,712.0,macOS,True
+169,2021-09-07,55,Female,AU,Family,3,,Windows,True
+500,2023-06-29,53,Non-binary,US,Premium,2,806.0,iOS,False
+878,2023-06-29,50,Non-binary,CA,Premium,2,,Linux,True
+309,2022-08-28,37,Male,AU,Family,3,832.0,Android,False
+94,2023-08-15,78,Prefer not to say,FR,Premium,2,420.0,Windows,False
+240,2023-09-17,33,Prefer not to say,AU,Premium,2,460.0,Android,False
+568,2022-06-10,33,Prefer not to say,ZA,Family,3,353.0,iOS,True
+394,2022-01-10,92,Prefer not to say,AU,Free,1,919.0,Linux,False
+656,2024-10-05,92,Female,AU,Family,3,484.0,iOS,True
+966,2021-07-27,95,Non-binary,JP,Free,1,580.0,Linux,True
+799,2023-01-16,13,Female,GB,Free,1,171.0,Android,False
+893,2023-07-20,95,Female,CA,Free,1,641.0,iOS,True
+471,2023-02-06,73,Female,GB,Free,1,368.0,iOS,True
+538,2024-05-09,92,Prefer not to say,SE,Premium,2,74.0,Android,True
+531,2024-08-11,32,Other,CA,Premium,2,28.0,Android,True
+458,2024-10-14,81,Male,AU,Premium,2,205.0,Android,False
+211,2021-05-18,61,Non-binary,ZA,Free,1,850.0,Android,True
+422,2021-12-06,92,Male,SE,Premium,2,209.0,Linux,False
+313,2023-03-28,79,Other,US,Family,3,,Windows,True
+860,2022-02-10,94,Male,GB,Free,1,350.0,Android,True
+79,2024-02-07,74,Female,CA,Premium,2,477.0,iOS,False
+984,2023-03-08,24,Male,DE,Family,3,838.0,iOS,True
+498,2024-04-05,14,Non-binary,FR,Free,1,146.0,iOS,True
+310,2023-05-09,74,Female,GB,Family,3,59.0,macOS,True
+695,2023-11-17,34,Female,JP,Premium,2,314.0,Windows,True
+348,2022-04-29,40,Prefer not to say,FR,Family,3,723.0,iOS,True
+297,2024-10-15,81,Prefer not to say,JP,Free,1,806.0,iOS,True
+389,2021-12-24,45,Non-binary,ZA,Premium,2,935.0,Android,True
+535,2023-12-02,79,Prefer not to say,US,Premium,2,214.0,iOS,True
+221,2022-04-12,18,Female,FR,Family,3,783.0,macOS,False
+13,2021-09-06,90,Non-binary,CA,Premium,2,339.0,Windows,False
+135,2024-09-21,35,Female,FR,Premium,2,87.0,Windows,False
+539,2021-11-02,17,Female,CA,Family,3,824.0,Windows,True
+828,2024-11-28,82,Other,GB,Family,3,566.0,macOS,False
+336,2023-10-08,69,Male,CA,Premium,2,,Linux,False
+625,2022-07-29,83,Other,ZA,Family,3,221.0,Linux,False
+378,2022-03-21,19,Male,CA,Premium,2,984.0,iOS,False
+950,2024-07-11,99,Prefer not to say,FR,Premium,2,,Linux,True
+482,2024-10-03,73,Non-binary,CA,Free,1,764.0,macOS,True
+688,2021-08-17,52,Female,BR,Free,1,45.0,iOS,False
+979,2022-09-12,83,Male,GB,Free,1,432.0,macOS,False
+572,2023-02-19,91,Male,JP,Family,3,109.0,Android,False
+765,2024-12-08,41,Other,GB,Free,1,204.0,Android,True
+937,2021-01-13,33,Prefer not to say,FR,Family,3,478.0,macOS,True
+72,2021-07-03,74,Non-binary,JP,Family,3,710.0,iOS,True
+118,2024-04-10,17,Female,AU,Free,1,172.0,Linux,True
+510,2022-05-11,86,Other,US,Premium,2,530.0,Linux,True
+144,2022-01-22,57,Other,CA,Family,3,927.0,Linux,True
+499,2024-12-16,78,Female,JP,Free,1,794.0,Linux,False
+855,2023-02-12,20,Prefer not to say,BR,Family,3,,Windows,False
+95,2021-10-18,59,Male,GB,Free,1,598.0,Linux,False
+387,2023-12-30,16,Non-binary,DE,Family,3,880.0,iOS,True
+921,2022-01-15,32,Non-binary,AU,Premium,2,926.0,Android,False
+541,2022-03-09,55,Other,JP,Family,3,550.0,Linux,False
+120,2022-01-15,92,Female,GB,Premium,2,120.0,Android,True
+719,2024-10-13,53,Other,CA,Family,3,280.0,macOS,False
+58,2023-11-29,27,Male,ZA,Family,3,612.0,Windows,True
+744,2023-11-26,64,Other,DE,Free,1,484.0,Linux,False
+464,2023-11-04,38,Prefer not to say,FR,Family,3,567.0,iOS,False
+517,2024-10-10,67,Female,ZA,Free,1,462.0,Windows,False
+894,2022-06-05,78,Other,ZA,Family,3,162.0,macOS,False
+733,2022-09-05,27,Non-binary,US,Family,3,235.0,Windows,True
+789,2022-01-13,76,Non-binary,JP,Premium,2,936.0,Windows,True
+151,2022-09-05,96,Prefer not to say,BR,Free,1,197.0,Windows,True
+423,2022-02-18,24,Other,CA,Premium,2,805.0,Linux,True
+915,2023-01-19,34,Female,CA,Family,3,143.0,Windows,True
+877,2024-07-17,43,Prefer not to say,DE,Free,1,164.0,Android,False
+461,2023-06-30,27,Other,CA,Family,3,842.0,iOS,True
+220,2022-05-19,58,Non-binary,GB,Premium,2,400.0,macOS,True
+404,2021-12-06,58,Female,US,Family,3,830.0,macOS,False
+751,2023-10-02,83,Other,DE,Free,1,849.0,Linux,True
+780,2024-11-26,26,Prefer not to say,CA,Free,1,342.0,Windows,False
+393,2024-07-28,64,Non-binary,SE,Free,1,307.0,Android,False
+432,2021-02-19,93,Other,CA,Family,3,229.0,macOS,False
+771,2023-06-30,21,Male,AU,Premium,2,477.0,Linux,False
+263,2023-09-03,26,Prefer not to say,ZA,Free,1,237.0,Windows,True
+38,2024-09-11,93,Other,CA,Family,3,86.0,Android,True
+741,2022-01-14,52,Male,CA,Free,1,184.0,Android,True
+154,2022-05-05,83,Non-binary,BR,Premium,2,66.0,macOS,True
+401,2024-11-03,29,Non-binary,AU,Free,1,509.0,iOS,True
+487,2021-04-02,28,Male,DE,Family,3,158.0,Android,False
+226,2023-04-19,85,Prefer not to say,CA,Family,3,514.0,Windows,True
+919,2024-09-06,62,Non-binary,AU,Free,1,638.0,Linux,False
+50,2021-07-20,57,Male,US,Family,3,721.0,macOS,False
+424,2023-10-17,67,Other,AU,Family,3,557.0,iOS,False
+12,2021-08-26,49,Female,SE,Free,1,704.0,iOS,False
+122,2024-09-10,61,Prefer not to say,ZA,Premium,2,,Android,True
+857,2024-10-30,20,Female,GB,Free,1,40.0,macOS,True
+33,2021-09-02,49,Prefer not to say,GB,Premium,2,866.0,Linux,True
+83,2021-03-18,53,Non-binary,JP,Family,3,810.0,Linux,True
+943,2022-07-31,28,Prefer not to say,BR,Premium,2,405.0,Android,True
+521,2023-10-02,25,Male,DE,Family,3,312.0,iOS,False
+109,2024-01-25,24,Non-binary,GB,Premium,2,63.0,iOS,True
+684,2024-04-23,65,Male,BR,Premium,2,804.0,macOS,True
+51,2023-08-31,29,Non-binary,FR,Free,1,735.0,iOS,True
+726,2024-11-24,18,Female,ZA,Free,1,391.0,Windows,False
+374,2023-11-27,52,Female,DE,Family,3,373.0,Android,False
+65,2022-06-27,32,Female,AU,Family,3,329.0,iOS,True
+22,2024-09-13,19,Male,DE,Premium,2,389.0,Android,False
+638,2022-04-15,19,Prefer not to say,AU,Family,3,846.0,Linux,False
+197,2021-09-02,79,Other,US,Premium,2,237.0,Linux,False
+547,2022-08-09,41,Prefer not to say,SE,Premium,2,750.0,Windows,True
+845,2024-08-28,89,Other,DE,Family,3,128.0,Android,False
+835,2021-12-31,81,Non-binary,GB,Free,1,112.0,iOS,False
+261,2023-09-02,89,Non-binary,JP,Family,3,118.0,Linux,True
+201,2022-06-26,22,Female,GB,Premium,2,607.0,macOS,False
+73,2021-02-15,16,Prefer not to say,CA,Family,3,276.0,iOS,True
+763,2022-03-27,45,Female,CA,Premium,2,823.0,Android,True
+230,2021-04-03,92,Non-binary,AU,Free,1,45.0,Linux,False
+318,2023-05-04,72,Prefer not to say,JP,Premium,2,699.0,Windows,True
+245,2023-09-28,33,Female,BR,Family,3,262.0,iOS,False
+103,2023-09-08,67,Male,SE,Premium,2,716.0,Windows,False
+329,2024-07-12,68,Prefer not to say,BR,Premium,2,559.0,macOS,False
+273,2023-02-07,71,Non-binary,US,Family,3,140.0,iOS,False
+957,2024-03-08,97,Other,US,Free,1,981.0,iOS,False
+190,2021-06-18,90,Non-binary,GB,Free,1,809.0,macOS,False
+162,2021-09-08,91,Non-binary,FR,Premium,2,235.0,Windows,False
+754,2023-03-20,63,Other,AU,Premium,2,929.0,macOS,True
+265,2022-09-09,61,Prefer not to say,US,Premium,2,101.0,Windows,True
+689,2021-10-28,29,Other,CA,Free,1,382.0,iOS,False
+650,2022-08-15,40,Male,BR,Free,1,357.0,iOS,False
+397,2023-07-18,91,Male,SE,Free,1,611.0,iOS,True
+774,2023-04-22,56,Other,JP,Family,3,705.0,macOS,False
+817,2022-12-27,13,Female,SE,Premium,2,996.0,iOS,False
+805,2022-04-02,76,Male,BR,Free,1,295.0,Linux,True
+199,2024-11-22,32,Male,US,Free,1,291.0,Linux,False
+283,2023-04-07,25,Other,AU,Free,1,491.0,iOS,False
+844,2023-09-04,66,Non-binary,BR,Premium,2,862.0,macOS,True
+511,2023-03-11,24,Male,AU,Family,3,517.0,iOS,False
+3,2024-03-07,52,Male,JP,Premium,2,627.0,macOS,True
+690,2024-05-03,24,Male,JP,Free,1,87.0,Linux,True
+279,2023-09-29,50,Female,SE,Premium,2,139.0,iOS,True
+653,2022-03-06,67,Male,AU,Free,1,115.0,Android,True
+639,2021-05-10,59,Male,BR,Free,1,464.0,Windows,True
+603,2024-04-23,38,Other,FR,Free,1,740.0,macOS,False
+8,2022-02-14,69,Female,US,Free,1,713.0,Android,False
+699,2024-05-15,21,Non-binary,BR,Family,3,528.0,Linux,True
+981,2024-11-12,30,Other,ZA,Premium,2,955.0,Linux,True
+425,2023-03-17,82,Prefer not to say,SE,Family,3,911.0,Linux,True
+392,2021-12-08,38,Female,GB,Premium,2,112.0,macOS,False
+428,2023-05-15,78,Other,CA,Family,3,369.0,macOS,True
+359,2024-03-11,78,Prefer not to say,AU,Free,1,386.0,Windows,False
+371,2021-09-09,21,Female,FR,Premium,2,887.0,macOS,False
+994,2024-01-21,56,Other,ZA,Free,1,968.0,Android,True
+728,2024-11-23,59,Female,CA,Premium,2,796.0,Android,True
+21,2021-10-16,30,Male,SE,Premium,2,855.0,Windows,True
+611,2023-08-16,98,Male,AU,Free,1,725.0,macOS,True
+486,2022-06-11,32,Female,GB,Free,1,149.0,iOS,False
+416,2021-02-07,22,Male,AU,Family,3,427.0,Windows,True
+990,2021-09-12,86,Non-binary,US,Premium,2,936.0,Android,False
+506,2023-03-15,79,Prefer not to say,ZA,Free,1,378.0,macOS,True
+186,2023-11-01,71,Prefer not to say,FR,Family,3,655.0,Android,True
+31,2021-01-09,69,Female,SE,Free,1,644.0,Android,True
+520,2021-08-25,30,Non-binary,BR,Premium,2,379.0,Android,True
+32,2023-05-25,85,Non-binary,GB,Family,3,164.0,Android,True
+903,2022-02-25,42,Other,CA,Free,1,966.0,Windows,True
+436,2022-06-18,62,Non-binary,US,Premium,2,373.0,iOS,True
+405,2024-11-13,13,Female,JP,Premium,2,314.0,macOS,False
+216,2024-05-02,37,Other,GB,Premium,2,657.0,Linux,False
+565,2023-10-12,16,Non-binary,JP,Family,3,394.0,Android,True
+566,2023-07-27,51,Non-binary,US,Premium,2,677.0,Android,True
+434,2021-01-11,91,Non-binary,SE,Family,3,816.0,Linux,False
+963,2023-12-26,40,Non-binary,AU,Free,1,,Android,False
+826,2023-09-17,88,Non-binary,AU,Free,1,331.0,Linux,False
+177,2022-06-22,81,Female,FR,Family,3,646.0,Android,False
+167,2023-10-11,57,Prefer not to say,SE,Premium,2,635.0,macOS,False
+938,2023-02-05,56,Other,ZA,Family,3,102.0,Linux,False
+354,2023-06-27,80,Other,BR,Free,1,693.0,Linux,True
+379,2022-06-12,26,Other,FR,Free,1,556.0,iOS,False
+184,2024-05-23,33,Prefer not to say,FR,Family,3,567.0,Linux,False
+920,2022-10-29,53,Prefer not to say,ZA,Free,1,499.0,iOS,False
+987,2021-04-23,61,Non-binary,ZA,Premium,2,562.0,Windows,True
+714,2023-02-23,41,Non-binary,US,Family,3,902.0,iOS,True
+449,2023-08-25,97,Non-binary,GB,Free,1,411.0,Linux,False
+450,2022-01-16,92,Female,DE,Premium,2,567.0,Windows,True
+35,2023-01-25,26,Non-binary,ZA,Premium,2,492.0,iOS,True
+191,2023-02-24,47,Other,AU,Family,3,609.0,Linux,True
+757,2023-09-27,64,Non-binary,FR,Family,3,632.0,iOS,True
+86,2023-07-31,34,Female,US,Family,3,160.0,iOS,True
+561,2021-06-24,88,Female,BR,Free,1,561.0,Windows,True
+781,2022-05-17,75,Female,BR,Premium,2,495.0,Windows,False
+269,2023-04-04,19,Male,GB,Family,3,689.0,macOS,False
+902,2021-04-21,37,Male,JP,Family,3,594.0,Android,True
+929,2023-08-17,84,Non-binary,ZA,Free,1,559.0,iOS,False
+316,2021-07-05,81,Other,GB,Premium,2,569.0,iOS,True
+522,2022-01-10,64,Prefer not to say,CA,Family,3,210.0,iOS,False
+161,2024-04-19,18,Other,FR,Free,1,725.0,Windows,False
+349,2021-06-14,32,Non-binary,JP,Premium,2,659.0,Windows,True
+952,2021-02-26,39,Male,JP,Premium,2,846.0,Windows,False
+692,2021-07-11,21,Non-binary,FR,Premium,2,920.0,Android,False
+737,2024-12-16,28,Male,JP,Premium,2,935.0,iOS,False
+278,2021-07-03,63,Non-binary,US,Free,1,360.0,Linux,True
+609,2021-11-23,77,Prefer not to say,CA,Family,3,928.0,iOS,False
+850,2024-01-20,66,Male,CA,Family,3,578.0,macOS,True
+579,2022-05-05,58,Male,JP,Free,1,13.0,Windows,True
+437,2023-11-24,79,Female,GB,Family,3,275.0,Android,False
+873,2023-08-30,80,Other,CA,Free,1,305.0,iOS,True
+906,2022-09-08,68,Prefer not to say,FR,Family,3,403.0,Linux,False
+93,2024-03-10,24,Other,US,Family,3,767.0,macOS,True
+328,2023-05-16,67,Prefer not to say,SE,Free,1,245.0,Android,False
+472,2022-02-13,55,Prefer not to say,ZA,Free,1,816.0,Android,True
+234,2024-06-14,21,Non-binary,AU,Family,3,242.0,iOS,True
+205,2024-03-03,17,Female,ZA,Premium,2,573.0,Windows,True
+706,2023-05-25,22,Non-binary,JP,Free,1,215.0,Android,True
+188,2021-07-17,90,Other,US,Family,3,891.0,Windows,False
+977,2021-10-30,45,Non-binary,JP,Premium,2,86.0,macOS,True
+986,2021-05-12,77,Female,DE,Free,1,293.0,Android,False
+319,2022-08-17,88,Non-binary,ZA,Family,3,357.0,iOS,False
+793,2022-03-21,39,Female,AU,Family,3,794.0,Windows,False
+814,2024-09-30,22,Other,FR,Free,1,435.0,Windows,True
+315,2022-12-31,59,Male,US,Free,1,511.0,iOS,True
+82,2024-02-09,44,Female,FR,Premium,2,563.0,macOS,True
+649,2021-09-13,83,Non-binary,DE,Premium,2,452.0,Android,False
+212,2024-08-09,93,Other,AU,Free,1,723.0,Linux,True
+488,2022-10-09,95,Prefer not to say,AU,Premium,2,61.0,Android,True
+947,2021-12-09,69,Prefer not to say,CA,Family,3,769.0,Android,False
+670,2024-11-06,75,Other,DE,Premium,2,818.0,Linux,False
+232,2021-11-15,67,Female,FR,Premium,2,702.0,Linux,True
+593,2024-02-22,70,Male,SE,Family,3,819.0,Android,True
+442,2023-10-13,81,Prefer not to say,FR,Premium,2,102.0,Windows,False
+153,2021-03-24,96,Male,BR,Premium,2,846.0,Android,False
+439,2021-02-16,58,Other,FR,Free,1,509.0,Linux,True
+809,2024-11-21,28,Female,AU,Premium,2,280.0,Windows,True
+715,2023-03-11,96,Male,ZA,Family,3,312.0,iOS,False
+556,2023-09-26,59,Prefer not to say,ZA,Family,3,599.0,Linux,True
+408,2024-07-23,73,Non-binary,FR,Free,1,83.0,Android,False
+867,2024-12-20,48,Female,ZA,Free,1,538.0,Windows,True
+576,2022-05-07,50,Other,ZA,Free,1,2.0,iOS,True
+115,2024-09-01,65,Other,CA,Premium,2,981.0,Linux,True
+7,2022-08-05,50,Female,ZA,Premium,2,642.0,Windows,False
+905,2022-11-07,74,Female,CA,Free,1,992.0,Linux,True
+484,2022-06-11,51,Non-binary,BR,Premium,2,53.0,Linux,False
+254,2024-09-17,23,Male,US,Free,1,109.0,macOS,False
+459,2021-02-18,39,Prefer not to say,ZA,Premium,2,595.0,macOS,True
+655,2021-10-12,80,Prefer not to say,AU,Family,3,804.0,Windows,True
+253,2024-04-10,22,Female,BR,Free,1,856.0,Windows,False
+586,2022-06-11,92,Female,DE,Free,1,566.0,Windows,True
+40,2021-11-22,23,Male,ZA,Family,3,191.0,Linux,True
+900,2021-11-21,50,Non-binary,DE,Premium,2,949.0,macOS,True
+340,2023-06-09,86,Female,GB,Premium,2,526.0,Linux,True
+304,2024-11-02,72,Female,ZA,Family,3,358.0,iOS,False
+26,2023-07-02,84,Male,BR,Family,3,265.0,iOS,True
+274,2023-09-14,45,Male,AU,Family,3,746.0,macOS,True
+123,2024-08-28,58,Female,SE,Premium,2,964.0,iOS,True
+946,2022-11-05,50,Male,BR,Family,3,62.0,macOS,False
+587,2021-06-07,52,Other,AU,Free,1,147.0,macOS,True
+185,2022-12-19,38,Male,FR,Premium,2,1000.0,iOS,True
+246,2022-08-04,41,Other,ZA,Premium,2,796.0,Linux,True
+70,2021-02-06,61,Other,AU,Family,3,408.0,Android,False
+722,2021-02-22,45,Male,DE,Family,3,385.0,iOS,True
+356,2024-01-06,18,Male,AU,Family,3,954.0,Android,False
+926,2024-01-07,45,Other,FR,Family,3,146.0,Linux,False
+78,2023-08-21,49,Other,ZA,Premium,2,288.0,Linux,True
+803,2022-11-09,48,Other,CA,Family,3,624.0,Android,True
+718,2021-01-10,41,Male,AU,Premium,2,366.0,macOS,True
+899,2022-04-24,46,Other,BR,Free,1,170.0,Windows,True
+940,2022-06-11,86,Male,FR,Free,1,945.0,macOS,False
+948,2022-07-01,99,Female,GB,Free,1,354.0,iOS,False
+675,2023-10-28,71,Male,AU,Free,1,194.0,iOS,True
+407,2022-11-17,95,Female,AU,Family,3,,macOS,True
+804,2024-06-27,45,Female,JP,Premium,2,96.0,iOS,True
+244,2021-03-07,17,Prefer not to say,BR,Free,1,313.0,Android,False
+256,2022-11-11,58,Male,DE,Premium,2,733.0,Linux,True
+301,2021-09-08,49,Male,FR,Family,3,584.0,iOS,True
+852,2022-05-07,44,Other,US,Free,1,42.0,Windows,True
+941,2024-02-08,16,Female,ZA,Free,1,690.0,macOS,False
+16,2023-12-17,97,Other,AU,Family,3,601.0,iOS,True
+200,2022-07-07,55,Non-binary,DE,Premium,2,166.0,Android,False
+910,2023-06-14,40,Other,SE,Premium,2,949.0,iOS,False
+60,2023-04-23,37,Non-binary,SE,Premium,2,164.0,Linux,False
+386,2022-10-15,27,Other,BR,Premium,2,180.0,macOS,True
+628,2021-05-03,25,Other,FR,Family,3,695.0,Linux,True
+172,2022-11-10,57,Prefer not to say,US,Premium,2,719.0,Android,False
+582,2022-11-30,42,Non-binary,DE,Free,1,666.0,Linux,True
+959,2024-06-14,89,Non-binary,ZA,Family,3,,Android,False
+542,2024-02-19,59,Other,DE,Family,3,457.0,Android,True
+790,2024-06-09,85,Female,SE,Free,1,,macOS,True
+807,2023-03-31,13,Male,FR,Family,3,116.0,iOS,True
+481,2023-10-03,90,Female,FR,Free,1,223.0,macOS,True
+457,2024-10-16,65,Other,US,Family,3,30.0,Linux,False
+888,2022-02-17,14,Female,ZA,Premium,2,314.0,Linux,False
+222,2022-01-01,18,Male,SE,Free,1,551.0,macOS,True
+494,2023-05-12,27,Prefer not to say,CA,Free,1,865.0,Windows,False
+166,2021-08-23,57,Female,BR,Premium,2,896.0,Windows,False
+406,2024-07-15,96,Prefer not to say,CA,Free,1,45.0,Windows,False
+29,2024-11-05,42,Prefer not to say,JP,Free,1,787.0,iOS,False
+806,2023-02-04,18,Prefer not to say,SE,Premium,2,185.0,macOS,True
+140,2021-08-02,92,Non-binary,FR,Family,3,699.0,Windows,False
+305,2021-12-25,63,Male,FR,Premium,2,421.0,Linux,False
+778,2023-02-10,33,Other,BR,Premium,2,995.0,macOS,True
+978,2023-08-24,30,Male,SE,Free,1,652.0,Windows,True
+338,2024-09-11,61,Male,ZA,Free,1,195.0,macOS,True
+398,2024-06-08,94,Other,DE,Premium,2,382.0,Windows,False
+574,2022-07-05,25,Non-binary,DE,Premium,2,272.0,Android,False
+121,2023-08-29,68,Male,ZA,Family,3,545.0,Windows,False
+235,2023-12-31,59,Non-binary,FR,Free,1,296.0,Android,False
+77,2021-06-22,26,Other,AU,Free,1,481.0,Android,True
+417,2023-08-18,17,Non-binary,ZA,Free,1,455.0,macOS,False
+233,2023-06-07,58,Male,CA,Family,3,585.0,Windows,True
+217,2023-12-04,84,Other,CA,Premium,2,946.0,Linux,True
+697,2021-02-08,29,Non-binary,CA,Premium,2,16.0,Linux,True
+731,2022-06-11,81,Male,AU,Free,1,31.0,macOS,False
+976,2021-01-01,79,Male,JP,Family,3,640.0,iOS,True
+648,2021-01-16,94,Male,GB,Premium,2,63.0,iOS,True
+236,2023-05-25,30,Female,CA,Family,3,67.0,Linux,True

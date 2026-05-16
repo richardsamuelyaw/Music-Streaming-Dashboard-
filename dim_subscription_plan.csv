@@ -1,0 +1,4 @@
+plan_id,plan_name,monthly_price_usd,max_accounts,ad_supported,offline_listening
+1,Free,0.0,1,True,False
+2,Premium,9.99,1,False,True
+3,Family,14.99,6,False,True

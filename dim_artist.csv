@@ -1,0 +1,449 @@
+artist_id,artist_name,home_country,debuts_year,genre_id
+859,Diplo,United States,2004,736
+828,Lana Del Rey,United States,2011,128
+277,Chuck Berry,United States,1955,718
+632,Gloria Estefan,Cuba,1977,698
+165,Kendrick Lamar,United States,2012,433
+758,Alice in Chains,United States,1990,718
+701,Rammstein,Germany,1995,86
+354,Joshua Bell,United States,1985,201
+67,Rod Stewart,United Kingdom,1969,718
+971,Lionel Richie,United States,1981,128
+446,Lynyrd Skynyrd,United States,1973,718
+894,A$AP Rocky,United States,2013,433
+678,Robyn,Sweden,1995,128
+779,System of a Down,United States,1998,86
+760,Red Hot Chili Peppers,United States,1984,718
+194,Beastie Boys,United States,1986,433
+364,Arthur Rubinstein,Poland,1900,201
+467,Styx,United States,1972,718
+498,Steely Dan,United States,1972,718
+43,Ringo Starr,United Kingdom,1970,718
+547,Sting,United Kingdom,1985,718
+154,Justin Timberlake,United States,2002,128
+744,The Strokes,United States,2001,718
+683,Stromae,Belgium,2009,128
+923,Tim McGraw,United States,1993,527
+745,The White Stripes,United States,1999,718
+367,Van Cliburn,United States,1954,201
+968,The Isley Brothers,United States,1959,128
+411,Deep Purple,United Kingdom,1968,718
+326,Andrea Bocelli,Italy,1994,128
+906,Roddy Ricch,United States,2019,433
+370,Leonard Cohen,Canada,1967,89
+76,Tina Turner,United States,1960,128
+470,REO Speedwagon,United States,1971,718
+796,Fall Out Boy,United States,2003,718
+189,Public Enemy,United States,1987,433
+463,Foreigner,United Kingdom,1977,718
+130,Nicki Minaj,Trinidad and Tobago,2010,433
+687,Charles Aznavour,France,1946,89
+476,Yes,United Kingdom,1969,718
+330,Placido Domingo,Spain,1959,128
+227,Lizzo,United States,2013,128
+565,Men at Work,Australia,1981,718
+670,Roxette,Sweden,1986,128
+941,Rascal Flatts,United States,2000,527
+437,Ozzy Osbourne,United Kingdom,1980,86
+160,Bruno Mars,United States,2010,128
+833,Shawn Mendes,Canada,2014,128
+630,Julio Iglesias,Spain,1968,698
+700,Mylene Farmer,France,1984,128
+97,Cher,United States,1965,128
+312,Chick Corea,United States,1966,201
+768,Sum 41,Canada,2001,718
+435,Motorhead,United Kingdom,1977,86
+805,The Black Keys,United States,2002,718
+842,Jess Glynne,United Kingdom,2014,128
+387,Art Garfunkel,United States,1973,89
+898,Logic,United States,2014,433
+288,Ella Fitzgerald,United States,1938,201
+239,TLC,United States,1992,128
+637,J Balvin,Colombia,2009,698
+139,Dua Lipa,United Kingdom,2015,128
+200,Chance the Rapper,United States,2013,433
+7,Bob Dylan,United States,1962,89
+797,Panic at the Disco,United States,2005,718
+787,Disturbed,United States,2000,86
+781,Tool,United States,1990,86
+665,BLACKPINK,South Korea,2016,128
+472,Kansas,United States,1974,718
+705,Nena,Germany,1982,128
+556,INXS,Australia,1980,718
+459,Santana,Mexico,1969,718
+506,Kraftwerk,Germany,1970,736
+569,Olivia Newton-John,Australia,1971,128
+37,John Lennon,United Kingdom,1970,718
+245,NSYNC,United States,1997,128
+114,Taylor Swift,United States,2006,128
+440,Meat Loaf,United States,1977,718
+669,Bjork,Iceland,1977,736
+655,Rosalia,Spain,2017,698
+471,Boston,United States,1976,718
+855,Martin Garrix,Netherlands,2013,736
+79,Aretha Franklin,United States,1961,128
+765,Green Day,United States,1990,718
+575,Tame Impala,Australia,2010,718
+635,Bad Bunny,Puerto Rico,2016,698
+554,Dire Straits,United Kingdom,1978,718
+90,Diana Ross,United States,1970,128
+559,Crowded House,Australia,1986,718
+795,My Chemical Romance,United States,2002,718
+304,Charlie Parker,United States,1940,201
+603,Bob Marley,Jamaica,1962,859
+30,Bruce Springsteen,United States,1973,718
+347,Itzhak Perlman,Israel,1964,201
+983,Blondie,United States,1976,718
+214,Travis Scott,United States,2015,433
+276,Little Richard,United States,1955,718
+408,The Kinks,United Kingdom,1964,718
+993,The Clash,United Kingdom,1977,718
+854,Armin van Buuren,Netherlands,1999,736
+34,Paul McCartney,United Kingdom,1970,718
+234,Bobby Brown,United States,1986,128
+822,Bon Iver,United States,2007,89
+58,Fleetwood Mac,United Kingdom,1968,718
+856,Kygo,Norway,2014,736
+281,Frank Sinatra,United States,1939,201
+918,Kenny Chesney,United States,1994,527
+293,Nina Simone,United States,1958,201
+434,Judas Priest,United Kingdom,1974,86
+662,Ozuna,Puerto Rico,2016,698
+126,Jennifer Lopez,United States,1999,128
+557,Midnight Oil,Australia,1978,718
+505,Boney M,Germany,1976,128
+784,Marilyn Manson,United States,1994,718
+997,Morrissey,United Kingdom,1988,718
+664,BTS,South Korea,2013,128
+409,The Yardbirds,United Kingdom,1963,718
+406,The Monkees,United States,1966,128
+418,Kiss,United States,1974,718
+814,Vampire Weekend,United States,2008,718
+321,Harry Connick Jr.,United States,1987,201
+167,Kanye West,United States,2004,433
+334,Maria Callas,Greece,1941,128
+22,Michael Jackson,United States,1972,128
+106,Garth Brooks,United States,1989,527
+772,Limp Bizkit,United States,1997,86
+723,Radiohead,United Kingdom,1993,718
+697,Francoise Hardy,France,1962,89
+462,Journey,United States,1975,718
+717,Milli Vanilli,Germany,1988,128
+161,The Weeknd,Canada,2012,128
+901,Migos,United States,2013,433
+501,ABBA,Sweden,1974,128
+938,Zac Brown Band,United States,2004,527
+152,Avril Lavigne,Canada,2002,128
+497,Hall and Oates,United States,1972,718
+496,Electric Light Orchestra,United Kingdom,1971,718
+166,Jay-Z,United States,1996,433
+381,Simon and Garfunkel,United States,1964,89
+301,Miles Davis,United States,1945,201
+684,Daft Punk,France,1993,736
+607,Ziggy Marley,Jamaica,1988,859
+362,Vladimir Horowitz,Ukraine,1921,201
+960,Hank Williams,United States,1947,527
+87,Barbra Streisand,United States,1963,128
+342,Yo-Yo Ma,United States,1978,201
+118,Adele,United Kingdom,2008,128
+339,Herbert von Karajan,Austria,1929,201
+962,Earth Wind and Fire,United States,1971,128
+366,Glenn Gould,Canada,1955,201
+909,DaBaby,United States,2019,433
+495,Supertramp,United Kingdom,1970,718
+457,Jefferson Airplane,United States,1966,718
+266,Al Green,United States,1967,128
+764,Foo Fighters,United States,1995,718
+970,The Commodores,United States,1974,128
+263,Smokey Robinson,United States,1961,128
+261,The Four Tops,United States,1954,128
+789,Papa Roach,United States,1997,718
+449,Creedence Clearwater Revival,United States,1968,718
+737,Arctic Monkeys,United Kingdom,2006,718
+272,Ray Charles,United States,1954,128
+96,Donna Summer,United States,1974,128
+447,The Allman Brothers Band,United States,1969,718
+903,Megan Thee Stallion,United States,2019,433
+127,Alicia Keys,United States,2001,128
+456,The Grateful Dead,United States,1967,718
+704,Scorpions,Germany,1972,86
+202,Post Malone,United States,2015,128
+722,The Cranberries,Ireland,1992,718
+306,Dizzy Gillespie,United States,1945,201
+809,The National,United States,2001,718
+579,Savage Garden,Australia,1997,128
+176,Ice Cube,United States,1990,433
+857,Marshmello,United States,2015,736
+19,The Rolling Stones,United Kingdom,1963,718
+759,Stone Temple Pilots,United States,1992,718
+493,Jethro Tull,United Kingdom,1968,718
+720,Enya,Ireland,1987,128
+663,Karol G,Colombia,2016,698
+432,Iron Maiden,United Kingdom,1980,86
+308,Thelonious Monk,United States,1947,201
+627,Shakira,Colombia,1991,698
+140,Olivia Rodrigo,United States,2021,128
+584,Iggy Azalea,Australia,2011,128
+94,Chaka Khan,United States,1978,128
+650,Marc Anthony,United States,1988,698
+629,Enrique Iglesias,Spain,1995,698
+84,Celine Dion,Canada,1981,128
+416,AC/DC,Australia,1975,718
+41,George Harrison,United Kingdom,1968,718
+179,Tupac Shakur,United States,1991,433
+494,The Moody Blues,United Kingdom,1965,718
+188,Wu-Tang Clan,United States,1993,433
+661,Pitbull,United States,2004,698
+144,Selena Gomez,United States,2009,128
+103,Willie Nelson,United States,1962,527
+175,Dr. Dre,United States,1992,433
+588,Troye Sivan,Australia,2014,128
+794,Paramore,United States,2005,718
+170,Eminem,United States,1996,433
+300,Count Basie,United States,1929,201
+926,Martina McBride,United States,1992,527
+990,Ramones,United States,1976,718
+581,Sia,Australia,1997,128
+613,Damian Marley,Jamaica,1996,859
+591,Nick Cave,Australia,1984,718
+295,Etta James,United States,1955,201
+151,Pink,United States,2000,128
+959,Waylon Jennings,United States,1966,527
+482,Phil Collins,United Kingdom,1981,718
+783,Nine Inch Nails,United States,1989,718
+65,Elton John,United Kingdom,1969,128
+82,Mariah Carey,United States,1990,128
+487,Peter Gabriel,United Kingdom,1977,718
+671,Ace of Base,Sweden,1993,128
+491,Emerson Lake and Palmer,United Kingdom,1970,718
+441,ZZ Top,United States,1971,718
+572,Keith Urban,Australia,1991,527
+542,Simple Minds,United Kingdom,1979,718
+473,Toto,United States,1978,718
+808,Kings of Leon,United States,2003,718
+267,Sam Cooke,United States,1957,128
+954,Patsy Cline,United States,1957,527
+331,Jose Carreras,Spain,1970,128
+545,The Police,United Kingdom,1978,718
+521,Duran Duran,United Kingdom,1981,128
+850,Deadmau5,Canada,2005,736
+439,Alice Cooper,United States,1969,718
+284,Sammy Davis Jr.,United States,1949,201
+21,Pink Floyd,United Kingdom,1967,718
+827,Hozier,Ireland,2013,128
+9,David Bowie,United Kingdom,1967,718
+897,J. Cole,United States,2011,433
+543,U2,Ireland,1980,718
+302,John Coltrane,United States,1957,201
+316,Pat Metheny,United States,1976,201
+108,Reba McEntire,United States,1977,527
+666,PSY,South Korea,2001,128
+672,Avicii,Sweden,2008,736
+244,Backstreet Boys,United States,1996,128
+660,Selena Quintanilla,United States,1984,698
+731,Coldplay,United Kingdom,2000,718
+727,Blur,United Kingdom,1991,718
+939,Lady A,United States,2007,527
+769,Linkin Park,United States,2000,718
+107,George Strait,United States,1981,527
+615,Sean Paul,Jamaica,2000,859
+916,Kenny Rogers,United States,1976,527
+976,Teddy Pendergrass,United States,1977,128
+230,H.E.R.,United States,2016,128
+236,Boyz II Men,United States,1991,128
+141,Miley Cyrus,United States,2007,128
+555,Mark Knopfler,United Kingdom,1996,718
+371,Joni Mitchell,Canada,1968,89
+310,Herbie Hancock,United States,1962,201
+830,Halsey,United States,2014,128
+460,Chicago,United States,1969,718
+964,Parliament Funkadelic,United States,1970,128
+317,Wynton Marsalis,United States,1981,201
+953,Loretta Lynn,United States,1960,527
+291,Sarah Vaughan,United States,1944,201
+622,UB40,United Kingdom,1980,859
+515,Joy Division,United Kingdom,1978,718
+256,The Supremes,United States,1961,128
+992,Sex Pistols,United Kingdom,1976,718
+936,Jason Aldean,United States,2005,527
+180,The Notorious B.I.G.,United States,1994,433
+164,Drake,Canada,2010,433
+533,George Michael,United Kingdom,1987,128
+44,Eric Clapton,United Kingdom,1970,718
+299,Duke Ellington,United States,1924,201
+892,Tyler The Creator,United States,2011,433
+91,Gladys Knight,United States,1961,128
+749,Pearl Jam,United States,1991,718
+846,David Guetta,France,2002,736
+891,Childish Gambino,United States,2011,433
+223,Future,United States,2012,433
+116,Rihanna,Barbados,2005,128
+519,Pet Shop Boys,United Kingdom,1985,128
+335,Enrico Caruso,Italy,1902,128
+410,Cream,United Kingdom,1966,718
+374,James Taylor,United States,1968,89
+887,Pharrell Williams,United States,2006,128
+747,Nirvana,United States,1989,718
+380,Cat Stevens,United Kingdom,1966,89
+262,Marvin Gaye,United States,1961,128
+5,Elvis Presley,United States,1954,718
+937,Chris Stapleton,United States,2015,527
+948,Dixie Chicks,United States,1990,527
+241,Spice Girls,United Kingdom,1996,128
+31,Stevie Wonder,United States,1963,128
+122,Britney Spears,United States,1998,128
+831,Camila Cabello,Cuba,2017,128
+153,Justin Bieber,Canada,2009,128
+599,Missy Higgins,Australia,2004,128
+875,Disclosure,United Kingdom,2012,736
+196,Missy Elliott,United States,1997,433
+280,Roy Orbison,United States,1956,718
+999,The Stone Roses,United Kingdom,1989,718
+778,Korn,United States,1994,86
+320,Michael Buble,Canada,2001,201
+972,Luther Vandross,United States,1981,128
+499,Bee Gees,United Kingdom,1967,128
+935,Luke Bryan,United States,2007,527
+13,Queen,United Kingdom,1973,718
+174,Snoop Dogg,United States,1993,433
+229,SZA,United States,2014,128
+279,Buddy Holly,United States,1957,718
+131,Cardi B,United States,2017,433
+17,Led Zeppelin,United Kingdom,1969,718
+121,Katy Perry,United States,2008,128
+296,Louis Armstrong,United States,1923,201
+928,Toby Keith,United States,1993,527
+694,Serge Gainsbourg,France,1958,89
+766,Blink-182,United States,1995,718
+417,Aerosmith,United States,1973,718
+199,Lil Wayne,United States,1999,433
+865,Major Lazer,United States,2009,736
+804,Maroon 5,United States,2002,128
+25,Prince,United States,1978,718
+716,Modern Talking,Germany,1984,128
+739,The Killers,United States,2004,718
+826,Florence and the Machine,United Kingdom,2009,718
+123,Christina Aguilera,United States,1999,128
+567,Air Supply,Australia,1976,128
+80,Whitney Houston,United States,1985,128
+397,The Byrds,United States,1965,718
+974,Barry White,United States,1973,128
+132,Billie Eilish,United States,2016,128
+489,King Crimson,United Kingdom,1969,718
+508,Depeche Mode,United Kingdom,1981,718
+314,Keith Jarrett,United States,1967,201
+956,Tammy Wynette,United States,1966,527
+286,Nat King Cole,United States,1943,201
+961,Glen Campbell,United States,1961,527
+925,LeAnn Rimes,United States,1996,527
+24,Madonna,United States,1983,128
+597,The Vines,Australia,2002,718
+148,Kelly Clarkson,United States,2002,128
+634,Carlos Santana,Mexico,1969,698
+841,James Bay,United Kingdom,2014,128
+724,Oasis,United Kingdom,1994,718
+419,Van Halen,United States,1978,718
+6,The Beatles,United Kingdom,1963,718
+967,Sly and the Family Stone,United States,1967,128
+596,Jet,Australia,2003,718
+181,LL Cool J,United States,1985,433
+933,Blake Shelton,United States,2001,527
+785,Slipknot,United States,1999,86
+847,Skrillex,United States,2010,736
+109,Shania Twain,Canada,1993,527
+250,The Temptations,United States,1964,128
+232,Usher,United States,1994,128
+531,Wham,United Kingdom,1982,128
+606,Jimmy Cliff,Jamaica,1962,859
+934,Miranda Lambert,United States,2003,527
+868,The Chainsmokers,United States,2012,736
+754,Soundgarden,United States,1988,718
+290,Billie Holiday,United States,1935,201
+412,Black Sabbath,United Kingdom,1970,86
+119,Lady Gaga,United States,2008,128
+927,Alan Jackson,United States,1989,527
+426,Guns N Roses,United States,1987,718
+113,Carrie Underwood,United States,2005,527
+652,Juanes,Colombia,2000,698
+963,Kool and the Gang,United States,1969,128
+274,James Brown,United States,1956,128
+454,The Band,Canada,1968,718
+248,New Kids on the Block,United States,1986,128
+268,Otis Redding,United States,1962,128
+995,The Smiths,United Kingdom,1984,718
+746,Jack White,United States,2012,718
+817,Arcade Fire,Canada,2004,718
+105,Merle Haggard,United States,1963,527
+882,Mark Ronson,United Kingdom,2003,128
+66,Billy Joel,United States,1971,128
+475,Rush,Canada,1974,718
+595,Flume,Australia,2012,736
+358,Lang Lang,China,1999,201
+146,Demi Lovato,United States,2008,128
+192,Run DMC,United States,1983,433
+825,Mumford and Sons,United Kingdom,2009,89
+319,Diana Krall,Canada,1993,201
+924,Faith Hill,United States,1993,527
+921,Brad Paisley,United States,1999,527
+156,Ed Sheeran,United Kingdom,2011,128
+285,Tony Bennett,United States,1951,201
+577,Silverchair,Australia,1994,718
+115,Beyonce,United States,2003,128
+540,Tears for Fears,United Kingdom,1983,128
+709,Falco,Austria,1982,128
+55,The Doors,United States,1967,718
+195,OutKast,United States,1994,433
+53,The Who,United Kingdom,1965,718
+429,Metallica,United States,1983,86
+516,The Cure,United Kingdom,1978,718
+681,Aqua,Denmark,1997,128
+803,OneRepublic,United States,2007,128
+394,The Mamas and the Papas,United States,1965,128
+829,Lorde,New Zealand,2013,128
+318,Norah Jones,United States,2002,201
+985,Talking Heads,United States,1977,718
+736,Muse,United Kingdom,1999,718
+793,Evanescence,United States,2003,718
+851,Tiesto,Netherlands,1994,736
+537,Annie Lennox,United Kingdom,1992,128
+890,Frank Ocean,United States,2012,433
+228,Doja Cat,United States,2018,128
+249,The Jackson 5,United States,1969,128
+643,Luis Miguel,Mexico,1982,698
+571,Kylie Minogue,Australia,1987,128
+949,Emmylou Harris,United States,1969,527
+282,Dean Martin,United States,1946,201
+49,Jimi Hendrix,United States,1967,718
+373,Neil Young,Canada,1968,89
+524,Culture Club,United Kingdom,1982,128
+101,Johnny Cash,United States,1955,527
+93,Patti LaBelle,United States,1962,128
+834,Charlie Puth,United States,2015,128
+52,Janis Joplin,United States,1967,718
+404,The Beach Boys,United States,1961,718
+690,Jacques Brel,Belgium,1953,89
+99,Dolly Parton,United States,1967,527
+837,Sam Smith,United Kingdom,2014,128
+844,Calvin Harris,United Kingdom,2007,736
+801,Twenty One Pilots,United States,2009,718
+240,Destiny's Child,United States,1997,128
+980,Patti Smith,United States,1975,718
+802,Imagine Dragons,United States,2012,718
+780,Rage Against the Machine,United States,1992,718
+628,Ricky Martin,Puerto Rico,1991,698
+616,Shaggy,Jamaica,1993,859
+134,Ariana Grande,United States,2013,128
+536,Eurythmics,United Kingdom,1983,128
+323,Josh Groban,United States,2001,128
+514,New Order,United Kingdom,1981,718
+858,Zedd,Germany,2010,736
+385,Paul Simon,United States,1972,89
+686,Edith Piaf,France,1935,89
+640,Daddy Yankee,Puerto Rico,1995,698
+61,The Eagles,United States,1972,718
+478,Genesis,United Kingdom,1969,718
+604,Peter Tosh,Jamaica,1976,859
+338,Leonard Bernstein,United States,1943,201
+327,Luciano Pavarotti,Italy,1961,128
+379,Carole King,United States,1971,89
+183,Nas,United States,1994,433
